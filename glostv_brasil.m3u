@@ -97,6 +97,8 @@ https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
 https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
 #EXTINF:-1 tvg-id="rtv-canal-38" tvg-name="RTV Canal 38" tvg-logo="https://glostv.com/wp-content/uploads/canal-38.-esse.webp" group-title="Variedades",RTV Canal 38
 https://cdn.live.br1.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 tvg-id="sbt-interior" tvg-name="SBT Interior" tvg-logo="https://glostv.com/wp-content/uploads/SBT-interior1-1.webp" group-title="Variedades",SBT Interior
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="sbt-para" tvg-name="SBT Pará" tvg-logo="https://glostv.com/wp-content/uploads/SBT-para-1-1.webp" group-title="Variedades",SBT Pará
 https://video05.logicahost.com.br/tvguajara/tvguajara/main_stream.m3u8
 #EXTINF:-1 tvg-id="sictv-rondonia" tvg-name="SICTV (Rondônia)" tvg-logo="https://glostv.com/wp-content/uploads/sicTV.webp" group-title="Variedades",SICTV (Rondônia)
