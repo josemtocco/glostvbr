@@ -1,0 +1,4 @@
+GlosTV Brasil - lista M3U para SS IPTV
+
+Arquivo: glostv_brasil.m3u
+Atualizacao automatica a cada 6 horas pelo GitHub Actions.

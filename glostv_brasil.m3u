@@ -1,0 +1,635 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="mais-um" tvg-name="+ Mais Um" tvg-logo="https://glostv.com/wp-content/uploads/mais-um-1.webp" group-title="Variedades",+ Mais Um
+https://stream.ichibansys.com:3230/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="adesso-tv" tvg-name="Adesso TV" tvg-logo="https://glostv.com/wp-content/uploads/acesso-TV.webp" group-title="Variedades",Adesso TV
+https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-id="araruna-tv" tvg-name="Araruna TV" tvg-logo="https://glostv.com/wp-content/uploads/Araruna-TV.webp" group-title="Variedades",Araruna TV
+https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+#EXTINF:-1 tvg-id="artv" tvg-name="ARTV" tvg-logo="https://glostv.com/wp-content/uploads/ARTV-2.webp" group-title="Variedades",ARTV
+https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
+#EXTINF:-1 tvg-id="awtv" tvg-name="AWTV" tvg-logo="https://glostv.com/wp-content/uploads/AW-TV.webp" group-title="Variedades",AWTV
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="bdc-tv" tvg-name="BDC TV" tvg-logo="https://glostv.com/wp-content/uploads/bdc.webp" group-title="Variedades",BDC TV
+https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-10-fernandopolis" tvg-name="Canal 10 Fernandópolis" tvg-logo="https://glostv.com/wp-content/uploads/canal-10.webp" group-title="Variedades",Canal 10 Fernandópolis
+https://canaldez.acessaradios.com.br/canaldez/canaldez/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-plural-ao-vivo" tvg-name="Canal Plural" tvg-logo="https://glostv.com/wp-content/uploads/canal-plural.webp" group-title="Variedades",Canal Plural
+https://stmv2.samcast.com.br/osc6197/osc6197/playlist.m3u8
+#EXTINF:-1 tvg-id="caragua-tv" tvg-name="Caraguá TV" tvg-logo="https://glostv.com/wp-content/uploads/caragua-TV-1.webp" group-title="Variedades",Caraguá TV
+https://stmv5.samcast.com.br/cesarvieira8491/cesarvieira8491/playlist.m3u8
+#EXTINF:-1 tvg-id="caravana-play" tvg-name="Caravana Play" tvg-logo="https://glostv.com/wp-content/uploads/caravana-150x150.webp" group-title="Variedades",Caravana Play
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
+#EXTINF:-1 tvg-id="cbtv" tvg-name="CBTV" tvg-logo="https://glostv.com/wp-content/uploads/CBTV-play.webp" group-title="Variedades",CBTV
+https://stmv2.samcast.com.br/carla7379/carla7379/playlist.m3u8
+#EXTINF:-1 tvg-id="chroma-mais-tv" tvg-name="Chroma Mais TV" tvg-logo="https://glostv.com/wp-content/uploads/Chroma-mais-TV-1.webp" group-title="Variedades",Chroma Mais TV
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:-1 tvg-id="creative-tv-brasil" tvg-name="Creative TV Brasil" tvg-logo="https://glostv.com/wp-content/uploads/Creative-TV-Brasil.webp" group-title="Variedades",Creative TV Brasil
+https://v01.taaqui.org/creativetvbrasil/creativetvbrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="diario-tv" tvg-name="Diário TV" tvg-logo="https://glostv.com/wp-content/uploads/diario-2.webp" group-title="Variedades",Diário TV
+https://netdiario.brasilstream.com.br/hls/netdiario/index.m3u8
+#EXTINF:-1 tvg-id="empire" tvg-name="Empire" tvg-logo="https://glostv.com/wp-content/uploads/empire.webp" group-title="Variedades",Empire
+https://5c483b9d1019c.streamlock.net/empiremagazine/empiremagazine/playlist.m3u8
+#EXTINF:-1 tvg-id="erenews" tvg-name="EreNews" tvg-logo="https://glostv.com/wp-content/uploads/ere-news.webp" group-title="Variedades",EreNews
+https://video10.logicahost.com.br/erenews/erenews/playlist.m3u8
+#EXTINF:-1 tvg-id="eutv" tvg-name="EUTV" tvg-logo="https://glostv.com/wp-content/uploads/Screenshot_8672-1.webp" group-title="Variedades",EUTV
+https://srt01.logicahost.com.br/kc_eutv/index.m3u8
+#EXTINF:-1 tvg-id="extremo-oriental-tv" tvg-name="Extremo Oriental TV" tvg-logo="https://glostv.com/wp-content/uploads/TV-Extremo.webp" group-title="Variedades",Extremo Oriental TV
+https://video05.logicahost.com.br/extremotv/extremotv/playlist.m3u8
+#EXTINF:-1 tvg-id="famatv" tvg-name="FamaTV" tvg-logo="https://glostv.com/wp-content/uploads/fama-TV.webp" group-title="Variedades",FamaTV
+https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
+#EXTINF:-1 tvg-id="giro-tv-news" tvg-name="Giro TV News" tvg-logo="https://glostv.com/wp-content/uploads/Giro-TV-News.webp" group-title="Variedades",Giro TV News
+https://video09.logicahost.com.br/giroserra/giroserra/playlist.m3u8
+#EXTINF:-1 tvg-id="latina-sat" tvg-name="Latina Sat" tvg-logo="https://glostv.com/wp-content/uploads/latina-sat.webp" group-title="Variedades",Latina Sat
+https://www.latinasat.com.br/hls/live/stream/index.m3u8
+#EXTINF:-1 tvg-id="lider-tv" tvg-name="Líder TV" tvg-logo="https://glostv.com/wp-content/uploads/lider-TV.webp" group-title="Variedades",Líder TV
+https://video08.logicahost.com.br/lidertvssp/lidertvssp/playlist.m3u8
+#EXTINF:-1 tvg-id="livre-tv" tvg-name="Livre TV" tvg-logo="https://glostv.com/wp-content/uploads/livre-TV.webp" group-title="Variedades",Livre TV
+https://video02.logicahost.com.br/livretv/livretv/playlist.m3u8
+#EXTINF:-1 tvg-id="masper-tv" tvg-name="Masper TV" tvg-logo="https://glostv.com/wp-content/uploads/masper-TV-1.webp" group-title="Variedades",Masper TV
+https://tv02.zas.media:1936/masper/masper/playlist.m3u8
+#EXTINF:-1 tvg-id="nasci-para-cantar" tvg-name="Nasci Para Cantar" tvg-logo="https://glostv.com/wp-content/uploads/npc.webp" group-title="Variedades",Nasci Para Cantar
+https://nasciparacantarserver.hopto.me:8443/hls/stream1.m3u8
+#EXTINF:-1 tvg-id="nossa-tv" tvg-name="Nossa TV (Mossoró RN)" tvg-logo="https://glostv.com/wp-content/uploads/nossa-TV-3.webp" group-title="Variedades",Nossa TV (Mossoró RN)
+https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
+#EXTINF:-1 tvg-id="nova-era-tv" tvg-name="Nova Era TV" tvg-logo="https://glostv.com/wp-content/uploads/nova-era-TV.webp" group-title="Variedades",Nova Era TV
+https://5a2b083e9f360.streamlock.net/novaeratv/novaeratv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="petlovers-tv" tvg-name="Petlovers TV" tvg-logo="https://glostv.com/wp-content/uploads/pet-lovers.webp" group-title="Variedades",Petlovers TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+#EXTINF:-1 tvg-id="playtv" tvg-name="PlayTV" tvg-logo="https://glostv.com/wp-content/uploads/playTV1.webp" group-title="Variedades",PlayTV
+https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="plena-tv" tvg-name="Plena TV" tvg-logo="https://glostv.com/wp-content/uploads/plena-TV-1-150x150.webp" group-title="Variedades",Plena TV
+https://cdn.live.br1.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+#EXTINF:-1 tvg-id="poa-news" tvg-name="Poa TV" tvg-logo="https://glostv.com/wp-content/uploads/Poa-News-1.webp" group-title="Variedades",Poa TV
+https://stmv2.srvif.com/mm03132026/mm03132026/playlist.m3u8
+#EXTINF:-1 tvg-id="porto-canal" tvg-name="Porto Canal" tvg-logo="https://glostv.com/wp-content/uploads/porto-canal.webp" group-title="Variedades",Porto Canal
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="puc-tv-goias" tvg-name="PUC TV – Goiás" tvg-logo="https://glostv.com/wp-content/uploads/2025/06/puctv.webp" group-title="Variedades",PUC TV – Goiás
+https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
+#EXTINF:-1 tvg-id="rbatv-band-pa" tvg-name="RBATV (Band PA)" tvg-logo="https://glostv.com/wp-content/uploads/RBATV.webp" group-title="Variedades",RBATV (Band PA)
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-gazeta-brasil" tvg-name="Rede Gazeta Brasil" tvg-logo="https://glostv.com/wp-content/uploads/rede-gazeta-br-1.webp" group-title="Variedades",Rede Gazeta Brasil
+https://painel.redegazetabrasil.com.br/hls/canal1/index.m3u8
+#EXTINF:-1 tvg-id="rede-metropole" tvg-name="Rede Metrópole" tvg-logo="https://glostv.com/wp-content/uploads/rede-metropole-2.webp" group-title="Variedades",Rede Metrópole
+https://isaocorp.cloudecast.com/metropole/index.m3u8
+#EXTINF:-1 tvg-id="rede-mult-tv" tvg-name="Rede Mult TV" tvg-logo="https://glostv.com/wp-content/uploads/rede-multi-2.webp" group-title="Variedades",Rede Mult TV
+https://stmv7.samcast.com.br/redemulttv/redemulttv/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-premium-tv" tvg-name="Rede Premium TV" tvg-logo="https://glostv.com/wp-content/uploads/rede-premium-150x150.webp" group-title="Variedades",Rede Premium TV
+https://stmv2.samcast.com.br/leonardo9878/leonardo9878/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-tv-mais" tvg-name="Rede TV Mais" tvg-logo="https://glostv.com/wp-content/uploads/rede-TV-mais.webp" group-title="Variedades",Rede TV Mais
+https://video09.logicahost.com.br/redetvmais/redetvmais/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-web-tv" tvg-name="Rede Web TV" tvg-logo="https://glostv.com/wp-content/uploads/Rede-Web-Tv.webp" group-title="Variedades",Rede Web TV
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15086/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="redetv-es" tvg-name="RedeTV ES" tvg-logo="https://glostv.com/wp-content/uploads/redeTV-ES-1.webp" group-title="Variedades",RedeTV ES
+https://stream.esemrede.com.br/live/redetves.m3u8
+#EXTINF:-1 tvg-id="redetv-mais" tvg-name="RedeTV Mais" tvg-logo="https://glostv.com/wp-content/uploads/redeTV-mais.webp" group-title="Variedades",RedeTV Mais
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="redetv-parana" tvg-name="RedeTV Paraná" tvg-logo="https://glostv.com/wp-content/uploads/redeTV-parana.webp" group-title="Variedades",RedeTV Paraná
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-id="redetv-rondonia" tvg-name="RedeTV Rondônia" tvg-logo="https://glostv.com/wp-content/uploads/redeTV54545-1.webp" group-title="Variedades",RedeTV Rondônia
+https://5b33b873179a2.streamlock.net:1443/canal17/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="redetv-tocantins" tvg-name="RedeTV Tocantins" tvg-logo="https://glostv.com/wp-content/uploads/redeTV-tocantins.webp" group-title="Variedades",RedeTV Tocantins
+https://5ad482a77183d.streamlock.net/administrativoredetvto.com.br/administrativoredetvto.com.br/playlist.m3u8
+#EXTINF:-1 tvg-id="redetv" tvg-name="RedeTV!" tvg-logo="https://glostv.com/wp-content/uploads/redeTV.webp" group-title="Variedades",RedeTV!
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-id="rftv-rede-familia" tvg-name="RFTV Rede Família" tvg-logo="https://glostv.com/wp-content/uploads/rede-Familia.webp" group-title="Variedades",RFTV Rede Família
+https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
+#EXTINF:-1 tvg-id="rtn-tv" tvg-name="RTN TV (TV A Crítica)" tvg-logo="https://glostv.com/wp-content/uploads/RTVNTV.webp" group-title="Variedades",RTN TV (TV A Crítica)
+https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
+#EXTINF:-1 tvg-id="rtv-canal-38" tvg-name="RTV Canal 38" tvg-logo="https://glostv.com/wp-content/uploads/canal-38.-esse.webp" group-title="Variedades",RTV Canal 38
+https://cdn.live.br1.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 tvg-id="sbt-para" tvg-name="SBT Pará" tvg-logo="https://glostv.com/wp-content/uploads/SBT-para-1-1.webp" group-title="Variedades",SBT Pará
+https://video05.logicahost.com.br/tvguajara/tvguajara/main_stream.m3u8
+#EXTINF:-1 tvg-id="sictv-rondonia" tvg-name="SICTV (Rondônia)" tvg-logo="https://glostv.com/wp-content/uploads/sicTV.webp" group-title="Variedades",SICTV (Rondônia)
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?token=10625035048351615000
+#EXTINF:-1 tvg-id="tela-brasil-tv" tvg-name="Tela Brasil TV" tvg-logo="https://glostv.com/wp-content/uploads/Tela-Brasil-Tv-.webp" group-title="Variedades",Tela Brasil TV
+https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
+#EXTINF:-1 tvg-id="tenda-tv" tvg-name="Tenda TV" tvg-logo="https://glostv.com/wp-content/uploads/tenda2-1-150x150.webp" group-title="Variedades",Tenda TV
+https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
+#EXTINF:-1 tvg-id="tere-tv" tvg-name="Terê TV" tvg-logo="https://glostv.com/wp-content/uploads/Tere-TV.webp" group-title="Variedades",Terê TV
+https://video02.logicahost.com.br/canal11teretv/canal11teretv/playlist.m3u8
+#EXTINF:-1 tvg-id="top-tv-on" tvg-name="TOP TV ON" tvg-logo="https://glostv.com/wp-content/uploads/TopTV-on-Copia.webp" group-title="Variedades",TOP TV ON
+https://video05.logicahost.com.br/toptvonbrasil/toptvonbrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-a-critica" tvg-name="TV A Crítica" tvg-logo="https://glostv.com/wp-content/uploads/a-critica.webp" group-title="Variedades",TV A Crítica
+https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-aberta-sao-paulo" tvg-name="TV Aberta São Paulo" tvg-logo="https://glostv.com/wp-content/uploads/tv-aberta-Copia.webp" group-title="Variedades",TV Aberta São Paulo
+https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-aldeia" tvg-name="TV Aldeia" tvg-logo="https://glostv.com/wp-content/uploads/tv-aldeira.webp" group-title="Variedades",TV Aldeia
+https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-alfenas" tvg-name="TV Alfenas" tvg-logo="https://glostv.com/wp-content/uploads/TV-Alfenas-HD.webp" group-title="Variedades",TV Alfenas
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15327/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-alpha" tvg-name="TV Alpha" tvg-logo="https://glostv.com/wp-content/uploads/tv-alpha.webp" group-title="Variedades",TV Alpha
+https://video05.logicahost.com.br/tvalpha/tvalpha/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-alternativa-rede-meio-ma" tvg-name="TV Alternativa" tvg-logo="https://glostv.com/wp-content/uploads/alternativa-1.webp" group-title="Variedades",TV Alternativa
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-amplitude-guaranta-do-norte" tvg-name="TV Amplitude (Guarantã do Norte)" tvg-logo="https://glostv.com/wp-content/uploads/TV-amplitude-guara-1.webp" group-title="Variedades",TV Amplitude (Guarantã do Norte)
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-amplitude-juara-ao-vivo" tvg-name="TV Amplitude Juara" tvg-logo="https://glostv.com/wp-content/uploads/TV-Amplitude-Juara-1.webp" group-title="Variedades",TV Amplitude Juara
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-amplitude-juina" tvg-name="TV Amplitude Juína" tvg-logo="https://glostv.com/wp-content/uploads/TV-amplitude-juina-1.webp" group-title="Variedades",TV Amplitude Juína
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-aratu" tvg-name="TV Aratu" tvg-logo="https://glostv.com/wp-content/uploads/TV-Aratu.webp" group-title="Variedades",TV Aratu
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-avant" tvg-name="TV Avant" tvg-logo="https://glostv.com/wp-content/uploads/Avant.webp" group-title="Variedades",TV Avant
+https://video04.logicahost.com.br/tvavant/tvavant/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-balneario-camboriu" tvg-name="TV Balneário Camboriú" tvg-logo="https://glostv.com/wp-content/uploads/Tv-Balneario-Camboriu.webp" group-title="Variedades",TV Balneário Camboriú
+https://stmv2.samcast.com.br/sandro9822/sandro9822/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-brusque-ao-vivo" tvg-name="TV Brusque" tvg-logo="https://glostv.com/wp-content/uploads/TV-brusque-Copia.webp" group-title="Variedades",TV Brusque
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-cacique" tvg-name="TV Cacique" tvg-logo="https://glostv.com/wp-content/uploads/tv-cacique-Copia.webp" group-title="Variedades",TV Cacique
+https://stmv8.samcast.com.br/pedro9687/pedro9687/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-caiua" tvg-name="TV Caiuá" tvg-logo="https://glostv.com/wp-content/uploads/TV-Caiua-Copia.webp" group-title="Variedades",TV Caiuá
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-capital" tvg-name="TV Capital" tvg-logo="https://glostv.com/wp-content/uploads/Tv-capital-Copia.webp" group-title="Variedades",TV Capital
+https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-carajas" tvg-name="TV Carajás" tvg-logo="https://glostv.com/wp-content/uploads/TV-Carajas.webp" group-title="Variedades",TV Carajás
+https://tvcarajas.brasilstream.com.br/hls/tvcarajas/index.m3u8
+#EXTINF:-1 tvg-id="tv-catve-cultura-pr" tvg-name="TV CATVE (Cultura PR)" tvg-logo="https://glostv.com/wp-content/uploads/caTVE.webp" group-title="Variedades",TV CATVE (Cultura PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-cidade-bahia" tvg-name="TV Cidade Bahia" tvg-logo="https://glostv.com/wp-content/uploads/tv-cidade-de-bahia.webp" group-title="Variedades",TV Cidade Bahia
+https://cdn.live.br1.jmvstream.com/webtv/ifulrbjz/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-cidade-canal-9-ao-vivo" tvg-name="TV Cidade Canal 9" tvg-logo="https://glostv.com/wp-content/uploads/Tv-cidade-canal-9.webp" group-title="Variedades",TV Cidade Canal 9
+https://video09.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-cidade-verde-sbt-pi" tvg-name="TV Cidade Verde (SBT PI)" tvg-logo="https://glostv.com/wp-content/uploads/tv-cidade-verde.webp" group-title="Variedades",TV Cidade Verde (SBT PI)
+https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-clube-rn" tvg-name="TV Clube RN" tvg-logo="https://glostv.com/wp-content/uploads/TV-Clube-1-150x150.webp" group-title="Variedades",TV Clube RN
+https://radios.braviahost.com.br:2020/hls/tvclubern/tvclubern.m3u8
+#EXTINF:-1 tvg-id="tv-curuca" tvg-name="TV Curuça" tvg-logo="https://glostv.com/wp-content/uploads/TV-Curuca.webp" group-title="Variedades",TV Curuça
+https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-diversidade" tvg-name="TV Diversidade" tvg-logo="https://glostv.com/wp-content/uploads/tv-diversidade-1-1.webp" group-title="Variedades",TV Diversidade
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-12928/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-ecovale" tvg-name="TV Ecovale" tvg-logo="https://glostv.com/wp-content/uploads/Eco-Vale.webp" group-title="Variedades",TV Ecovale
+https://5ad482a77183d.streamlock.net/portalecovalegmail.com/portalecovalegmail.com/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-foz" tvg-name="TV Foz" tvg-logo="https://glostv.com/wp-content/uploads/TV-Foz-1.webp" group-title="Variedades",TV Foz
+https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-foz-sao-mateus" tvg-name="TV FOZ São Mateus" tvg-logo="https://glostv.com/wp-content/uploads/TV-foz-ES.webp" group-title="Variedades",TV FOZ São Mateus
+https://5cf4a2c2512a2.streamlock.net/8028/8028/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-gallo" tvg-name="TV Gallo" tvg-logo="https://glostv.com/wp-content/uploads/TV-Gallo-.webp" group-title="Variedades",TV Gallo
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-gazeta-go" tvg-name="TV Gazeta GO" tvg-logo="https://glostv.com/wp-content/uploads/tv-gazeta.webp" group-title="Variedades",TV Gazeta GO
+https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-geral" tvg-name="TV Geral" tvg-logo="https://glostv.com/wp-content/uploads/Tv-geral.webp" group-title="Variedades",TV Geral
+https://video05.logicahost.com.br/tvgeral/tvgeral/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-gideoes" tvg-name="TV Gideões" tvg-logo="https://glostv.com/wp-content/uploads/Gideoes.webp" group-title="Variedades",TV Gideões
+https://tv01.zas.media:1936/gideoes/gideoes/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-guajara" tvg-name="TV Guajará SBT PA" tvg-logo="https://glostv.com/wp-content/uploads/TV-Guajara-2.webp" group-title="Variedades",TV Guajará SBT PA
+https://video05.logicahost.com.br/tvguajara/tvguajara/main_stream.m3u8
+#EXTINF:-1 tvg-id="tv-guarulhos-ao-vivo" tvg-name="TV Guarulhos" tvg-logo="https://glostv.com/wp-content/uploads/TV-Guarulhos.webp" group-title="Variedades",TV Guarulhos
+https://br5093.streamingdevideo.com.br/tvguarulhos/tvguarulhos/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-hortolandia-ao-vivo" tvg-name="TV Hortolândia" tvg-logo="https://glostv.com/wp-content/uploads/TV-Hortolandia.webp" group-title="Variedades",TV Hortolândia
+https://s1.tvr.ovh/video83070/video83070/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-inforbahia" tvg-name="TV InforBahia" tvg-logo="https://glostv.com/wp-content/uploads/TV-Infor-bahia.webp" group-title="Variedades",TV InforBahia
+https://stmv4.voxtvhd.com.br/tvinforbahia/tvinforbahia/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-interior" tvg-name="TV Interior" tvg-logo="https://glostv.com/wp-content/uploads/TV-interior.webp" group-title="Variedades",TV Interior
+https://live.tvinterior.com.br/hls/stream.m3u8
+#EXTINF:-1 tvg-id="tv-jundiai-hoje" tvg-name="TV Jundiaí Hoje" tvg-logo="https://glostv.com/wp-content/uploads/jundiai-hoje-1-150x150.webp" group-title="Variedades",TV Jundiaí Hoje
+https://stmv2.samcast.com.br/rosanaa9913/rosanaa9913/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-liberdade-pacajus" tvg-name="TV Liberdade Pacajus" tvg-logo="https://glostv.com/wp-content/uploads/radio-e-TV-Liberdade.webp" group-title="Variedades",TV Liberdade Pacajus
+https://stmv1.paineldevideo.com.br/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-life-america" tvg-name="TV Life América" tvg-logo="https://glostv.com/wp-content/uploads/TV-Life-1-1-150x150.png" group-title="Variedades",TV Life América
+https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
+#EXTINF:-1 tvg-id="tv-litoral" tvg-name="TV Litoral" tvg-logo="https://glostv.com/wp-content/uploads/TV-Litoral-1.webp" group-title="Variedades",TV Litoral
+https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-maceio" tvg-name="TV Maceió" tvg-logo="https://glostv.com/wp-content/uploads/TV-maceio.webp" group-title="Variedades",TV Maceió
+https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-mais-brasil" tvg-name="TV Mais Brasil" tvg-logo="https://glostv.com/wp-content/uploads/TV-Mais-Brasil.webp" group-title="Variedades",TV Mais Brasil
+https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-mais-marica" tvg-name="TV Mais Maricá" tvg-logo="https://glostv.com/wp-content/uploads/TV-mais-marica.webp" group-title="Variedades",TV Mais Maricá
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-mar" tvg-name="TV Mar" tvg-logo="https://glostv.com/wp-content/uploads/TV-Mar.webp" group-title="Variedades",TV Mar
+https://virtues.live:1936/tvmar/tvmar/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-marajoara" tvg-name="TV Marajoara" tvg-logo="https://glostv.com/wp-content/uploads/TV-Marajoara-1.webp" group-title="Variedades",TV Marajoara
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-marrecas" tvg-name="TV Marrecas" tvg-logo="https://glostv.com/wp-content/uploads/tv-marrecas-2-1.webp" group-title="Variedades",TV Marrecas
+https://video03.logicahost.com.br/tvmarrecas/tvmarrecas/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-max" tvg-name="TV MAX" tvg-logo="https://glostv.com/wp-content/uploads/TV-Max.webp" group-title="Variedades",TV MAX
+https://video09.logicahost.com.br/tvmax/tvmax/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-meio-norte" tvg-name="TV Meio Norte" tvg-logo="https://glostv.com/wp-content/uploads/TV_Meio_Norte_2025_logo-2.webp" group-title="Variedades",TV Meio Norte
+https://isaocorp.cloudecast.com/redemeio/index.m3u8
+#EXTINF:-1 tvg-id="tv-metropole" tvg-name="TV Metrópole" tvg-logo="https://glostv.com/wp-content/uploads/Tv-metropole.webp" group-title="Variedades",TV Metrópole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-metropolitana-rio" tvg-name="TV Metropolitana Rio" tvg-logo="https://glostv.com/wp-content/uploads/metropolitana.webp" group-title="Variedades",TV Metropolitana Rio
+https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-modelo" tvg-name="TV Modelo" tvg-logo="https://glostv.com/wp-content/uploads/TV-modelo-2.webp" group-title="Variedades",TV Modelo
+https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-olho-dagua" tvg-name="TV Olho D’água" tvg-logo="https://glostv.com/wp-content/uploads/TV-olho.webp" group-title="Variedades",TV Olho D’água
+https://video08.logicahost.com.br/tvolhodagua/tvolhodagua/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-ondas-play" tvg-name="TV Ondas Play" tvg-logo="https://glostv.com/wp-content/uploads/Tv-onda-play.webp" group-title="Variedades",TV Ondas Play
+https://stmv5.samcast.com.br/portalondasdemarica/portalondasdemarica/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-onix" tvg-name="TV ONIX" tvg-logo="https://glostv.com/wp-content/uploads/TV-onix.webp" group-title="Variedades",TV ONIX
+https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-opiniao-play" tvg-name="TV Opinião Play" tvg-logo="https://glostv.com/wp-content/uploads/Opiniao-play.webp" group-title="Variedades",TV Opinião Play
+https://video04.logicahost.com.br/tvpopular/tvpopular/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-pampa" tvg-name="TV Pampa" tvg-logo="https://glostv.com/wp-content/uploads/TV-pampa.webp" group-title="Variedades",TV Pampa
+https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-pantanal" tvg-name="TV pantanal" tvg-logo="https://glostv.com/wp-content/uploads/Tv-pantanal.webp" group-title="Variedades",TV pantanal
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-pantanal-ms" tvg-name="TV Pantanal MS" tvg-logo="https://glostv.com/wp-content/uploads/tV-pantanal-ms.webp" group-title="Variedades",TV Pantanal MS
+https://59d39900ebfb8.streamlock.net/tvpantanalms/tvpantanalms/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-paraense" tvg-name="TV Paraense" tvg-logo="https://glostv.com/wp-content/uploads/TV-paraense-1-150x150.webp" group-title="Variedades",TV Paraense
+https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-planalto-norte" tvg-name="TV Planalto Norte" tvg-logo="https://glostv.com/wp-content/uploads/TV-planalto-1.webp" group-title="Variedades",TV Planalto Norte
+https://pop.uniquetv.com.br/tvplanaltonorte/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="tv-plug" tvg-name="TV Plug" tvg-logo="https://glostv.com/wp-content/uploads/TV-Plug.webp" group-title="Variedades",TV Plug
+https://stmv3.voxtvhd.com.br/tvplug/tvplug/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-ponta-verde" tvg-name="TV Ponta Verde" tvg-logo="https://glostv.com/wp-content/uploads/tv-ponta.webp" group-title="Variedades",TV Ponta Verde
+https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-portalweb" tvg-name="TV Portalweb" tvg-logo="https://glostv.com/wp-content/uploads/portal-web.webp" group-title="Variedades",TV Portalweb
+https://stmv.webtvninjas.com.br/tvportalweb/tvportalweb/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-rba-ao-vivo" tvg-name="TV RBA" tvg-logo="https://glostv.com/wp-content/uploads/RBATV-2-1.webp" group-title="Variedades",TV RBA
+https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-rio-preto" tvg-name="TV Rio Preto" tvg-logo="https://glostv.com/wp-content/uploads/Tv-Rio-Preto-1.webp" group-title="Variedades",TV Rio Preto
+https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-santa-cecilia" tvg-name="TV Santa Cecilia" tvg-logo="https://glostv.com/wp-content/uploads/santya-cecilia.webp" group-title="Variedades",TV Santa Cecilia
+https://video11.logicahost.com.br/unisantaapp/unisantaapp/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-sao-luiz" tvg-name="TV São Luiz (RedeTV)" tvg-logo="https://glostv.com/wp-content/uploads/TV-sao-luiz-1.webp" group-title="Variedades",TV São Luiz (RedeTV)
+https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-serra-mar" tvg-name="TV Serra Mar" tvg-logo="https://glostv.com/wp-content/uploads/serra-mar1-1.webp" group-title="Variedades",TV Serra Mar
+https://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-sete-lagoas" tvg-name="TV sete Lagoas" tvg-logo="https://glostv.com/wp-content/uploads/TV-sete-Lagoas-.webp" group-title="Variedades",TV sete Lagoas
+https://video04.logicahost.com.br/santiagoproducoes/santiagoproducoes/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-sul" tvg-name="TV Sul" tvg-logo="https://glostv.com/wp-content/uploads/TV-Sul.webp" group-title="Variedades",TV Sul
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-todo-dia" tvg-name="TV Todo Dia" tvg-logo="https://glostv.com/wp-content/uploads/tododia.webp" group-title="Variedades",TV Todo Dia
+https://br5093.streamingdevideo.com.br/tvtododia/tvtododia/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-tropical" tvg-name="TV Tropical" tvg-logo="https://glostv.com/wp-content/uploads/Tv-tropical.webp" group-title="Variedades",TV Tropical
+https://video07.logicahost.com.br/portaltropicalrn/portaltropicalrn/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-votorantim" tvg-name="TV Votorantim" tvg-logo="https://glostv.com/wp-content/uploads/TV-Votorantim.webp" group-title="Variedades",TV Votorantim
+https://br5093.streamingdevideo.com.br/tvv/tvv/playlist.m3u8
+#EXTINF:-1 tvg-id="tvc-bauru" tvg-name="TVC Bauru" tvg-logo="https://glostv.com/wp-content/uploads/TVC2.webp" group-title="Variedades",TVC Bauru
+https://video09.logicahost.com.br/tvbauru/tvbauru/playlist.m3u8
+#EXTINF:-1 tvg-id="tvc-jau" tvg-name="TVC Jaú" tvg-logo="https://glostv.com/wp-content/uploads/TVC-Jau.webp" group-title="Variedades",TVC Jaú
+https://cdn.live.br1.jmvstream.com/w/LVW-10889/LVW10889_2WEZNQGi20/playlist.m3u8
+#EXTINF:-1 tvg-id="tvc-rio" tvg-name="TVC Rio" tvg-logo="https://glostv.com/wp-content/uploads/tvc-rio-1-150x150.webp" group-title="Variedades",TVC Rio
+https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+#EXTINF:-1 tvg-id="tvci" tvg-name="TVCI" tvg-logo="https://glostv.com/wp-content/uploads/TVCI2.png" group-title="Variedades",TVCI
+https://cpbr.appflux.com.br:2000/hls/tvcilive/tvcilive.m3u8
+#EXTINF:-1 tvg-id="tvcom" tvg-name="TVCOM" tvg-logo="https://glostv.com/wp-content/uploads/tv-COM.webp" group-title="Variedades",TVCOM
+https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+#EXTINF:-1 tvg-id="tvi" tvg-name="TVI" tvg-logo="https://glostv.com/wp-content/uploads/tvi__1_-removebg-preview-1-150x150.webp" group-title="Variedades",TVI
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
+#EXTINF:-1 tvg-id="tvr-sul" tvg-name="TVR SUL" tvg-logo="https://glostv.com/wp-content/uploads/TVR-Sul.webp" group-title="Variedades",TVR SUL
+https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="uma-tv" tvg-name="Uma TV" tvg-logo="https://glostv.com/wp-content/uploads/uma-TV-1.webp" group-title="Variedades",Uma TV
+https://umatv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="utv-londrina" tvg-name="UTV Londrina" tvg-logo="https://glostv.com/wp-content/uploads/UTV.webp" group-title="Variedades",UTV Londrina
+https://video05.logicahost.com.br/utvtv/utvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="via-morena" tvg-name="Via Morena" tvg-logo="https://glostv.com/wp-content/uploads/via-morena.webp" group-title="Variedades",Via Morena
+https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
+#EXTINF:-1 tvg-id="viva-web-tv" tvg-name="Viva Web TV" tvg-logo="https://glostv.com/wp-content/uploads/viva-web-TV.webp" group-title="Variedades",Viva Web TV
+https://video01.brascast.com/cypriano46326/cypriano46326/playlist.m3u8
+#EXTINF:-1 tvg-id="vivax-tv" tvg-name="Vivax TV" tvg-logo="https://glostv.com/wp-content/uploads/vivaxTV.webp" group-title="Variedades",Vivax TV
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
+#EXTINF:-1 tvg-id="vv8-tv" tvg-name="VV8 TV" tvg-logo="https://glostv.com/wp-content/uploads/8-VV8-TV.webp" group-title="Variedades",VV8 TV
+https://video01.brascast.com/seap8272/seap8272/playlist.m3u8
+#EXTINF:-1 tvg-id="web-tv-alternativa" tvg-name="WEB TV Alternativa" tvg-logo="https://glostv.com/wp-content/uploads/WEB-TV-Alternativa1-1.webp" group-title="Variedades",WEB TV Alternativa
+https://video04.logicahost.com.br/webtvalternativa/webtvalternativa/playlist.m3u8
+#EXTINF:-1 tvg-id="web-tv-parana" tvg-name="Web TV Paraná" tvg-logo="https://glostv.com/wp-content/uploads/webTV-parana-1.webp" group-title="Variedades",Web TV Paraná
+https://s1.tvr.ovh/video63135/video63135/playlist.m3u8
+#EXTINF:-1 tvg-id="euronews-portugues" tvg-name="Euronews Português" tvg-logo="https://glostv.com/wp-content/uploads/Euro-news-portugues-1.webp" group-title="Noticias",Euronews Português
+https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="jovem-pan-news" tvg-name="Jovem Pan TV" tvg-logo="https://glostv.com/wp-content/uploads/jovem-pan-TVV.webp" group-title="Noticias",Jovem Pan TV
+https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 tvg-id="radio-bandnews-fm" tvg-name="Rádio BandNews FM" tvg-logo="https://glostv.com/wp-content/uploads/radio-band-news-.webp" group-title="Noticias",Rádio BandNews FM
+https://amg29547-amg29547c2-amgplt0728.playout.now3.amagi.tv/bndnws-std-cc/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="record-news" tvg-name="Record News" tvg-logo="https://glostv.com/wp-content/uploads/2025/06/record-news.webp" group-title="Noticias",Record News
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-id="record-news-es" tvg-name="Record News ES" tvg-logo="https://glostv.com/wp-content/uploads/record-news-espirito-santo-1-150x150.webp" group-title="Noticias",Record News ES
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:-1 tvg-id="sbt-news" tvg-name="SBT News" tvg-logo="https://glostv.com/wp-content/uploads/sbt-news-2.webp" group-title="Noticias",SBT News
+https://sbtnews.maissbt.com/3.m3u8
+#EXTINF:-1 tvg-id="tv-cidade-verde" tvg-name="TV Cidade Verde" tvg-logo="https://glostv.com/wp-content/uploads/TV-cidade-verde-1.webp" group-title="Noticias",TV Cidade Verde
+https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
+#EXTINF:-1 tvg-id="tv-fronteira" tvg-name="TV Fronteira" tvg-logo="https://glostv.com/wp-content/uploads/tv-fronteira-1-150x150.webp" group-title="Noticias",TV Fronteira
+https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
+#EXTINF:-1 tvg-id="tv-guara" tvg-name="TV Guará (Record News MA)" tvg-logo="https://glostv.com/wp-content/uploads/record-news-maranhao-1.webp" group-title="Noticias",TV Guará (Record News MA)
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
+#EXTINF:-1 tvg-id="cazetv" tvg-name="CazéTV" tvg-logo="https://glostv.com/wp-content/uploads/caze-tv-1-150x150.webp" group-title="Futebol",CazéTV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="blits-tv" tvg-name="BLITS TV" tvg-logo="https://glostv.com/wp-content/uploads/blits-TV.webp" group-title="Filmes",BLITS TV
+https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
+#EXTINF:-1 tvg-id="bs-tv-online" tvg-name="BS-TV Online" tvg-logo="https://glostv.com/wp-content/uploads/bs-TV-online.webp" group-title="Filmes",BS-TV Online
+https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-29" tvg-name="Canal 29" tvg-logo="https://glostv.com/wp-content/uploads/canal-29-1.webp" group-title="Filmes",Canal 29
+https://cdn.live.br1.jmvstream.com/webtv/trespassostv/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="classique-tv" tvg-name="Classique TV" tvg-logo="https://glostv.com/wp-content/uploads/classique-1-1.webp" group-title="Filmes",Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-id="clouding-tv" tvg-name="Clouding TV" tvg-logo="https://glostv.com/wp-content/uploads/rede-clouding-TV.webp" group-title="Filmes",Clouding TV
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="filmelier-tv" tvg-name="Filmelier TV" tvg-logo="https://glostv.com/wp-content/uploads/filmelier-1-150x150.webp" group-title="Filmes",Filmelier TV
+https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="istv" tvg-name="ISTV" tvg-logo="https://glostv.com/wp-content/uploads/isTV.webp" group-title="Filmes",ISTV
+https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
+#EXTINF:-1 tvg-id="mytime-movie-network-brasil" tvg-name="MyTime Movie Network Brasil" tvg-logo="https://glostv.com/wp-content/uploads/mytime-1-150x150.webp" group-title="Filmes",MyTime Movie Network Brasil
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ortv-filmes-e-variedades" tvg-name="ORTV Filmes e Variedades" tvg-logo="https://glostv.com/wp-content/uploads/filmesee-1.webp" group-title="Filmes",ORTV Filmes e Variedades
+https://tv.ortv.com.br/hls/stream.m3u8
+#EXTINF:-1 tvg-id="rbtv" tvg-name="RBTV" tvg-logo="https://glostv.com/wp-content/uploads/RBTV.webp" group-title="Filmes",RBTV
+https://redebrasileira.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="rede-brasil-de-televisao" tvg-name="Rede Brasil de Televisão" tvg-logo="https://glostv.com/wp-content/uploads/rede-brasil-1000-1.webp" group-title="Filmes",Rede Brasil de Televisão
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-mundo-tv-sp" tvg-name="Rede Mundo TV – SP" tvg-logo="https://glostv.com/wp-content/uploads/a4702cdca0afcaf32b119d6035963bf5-1.webp" group-title="Filmes",Rede Mundo TV – SP
+https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-utv-brasil" tvg-name="Rede UTV Brasil" tvg-logo="https://glostv.com/wp-content/uploads/rede-UTV.webp" group-title="Filmes",Rede UTV Brasil
+https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="runtime" tvg-name="Runtime" tvg-logo="https://glostv.com/wp-content/uploads/Runtime60-1.webp" group-title="Filmes",Runtime
+https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8
+#EXTINF:-1 tvg-id="runtime-acao" tvg-name="Runtime Ação" tvg-logo="https://glostv.com/wp-content/uploads/Runtime-acao.webp" group-title="Filmes",Runtime Ação
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+#EXTINF:-1 tvg-id="runtime-comedia" tvg-name="Runtime Comédia" tvg-logo="https://glostv.com/wp-content/uploads/Runtime-comedia-.webp" group-title="Filmes",Runtime Comédia
+https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8
+#EXTINF:-1 tvg-id="runtime-crime" tvg-name="Runtime Crime" tvg-logo="https://glostv.com/wp-content/uploads/Runtime-crime.webp" group-title="Filmes",Runtime Crime
+https://run-cr-br.otteravision.com/run/cr_br/cr_br_720.m3u8
+#EXTINF:-1 tvg-id="runtime-familia" tvg-name="Runtime Família" tvg-logo="https://glostv.com/wp-content/uploads/Runtime-Familia.webp" group-title="Filmes",Runtime Família
+https://run-rufb.otteravision.com/run/rufb/rufb.m3u8
+#EXTINF:-1 tvg-id="runtime-romance" tvg-name="Runtime Romance" tvg-logo="https://glostv.com/wp-content/uploads/Runtime-comance-copiar.webp" group-title="Filmes",Runtime Romance
+https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8
+#EXTINF:-1 tvg-id="sessao-trash" tvg-name="Sessão Trash" tvg-logo="https://glostv.com/wp-content/uploads/sessao-1.webp" group-title="Filmes",Sessão Trash
+https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="sony-one-cinema" tvg-name="Sony One Cinema" tvg-logo="https://glostv.com/wp-content/uploads/sony-one-Cinema-1-150x150.webp" group-title="Filmes",Sony One Cinema
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="tres-passos-tv" tvg-name="Três Passos TV" tvg-logo="https://glostv.com/wp-content/uploads/tres-passos-TV-Copia.webp" group-title="Filmes",Três Passos TV
+https://cdn.live.br1.jmvstream.com/webtv/trespassostv/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-aracati" tvg-name="TV Aracati" tvg-logo="https://glostv.com/wp-content/uploads/TV-Aracati.webp" group-title="Filmes",TV Aracati
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-carioca-internacional" tvg-name="TV Carioca Internacional" tvg-logo="https://glostv.com/wp-content/uploads/Tv-Carioca.webp" group-title="Filmes",TV Carioca Internacional
+https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-channel-network" tvg-name="TV Channel Network" tvg-logo="https://glostv.com/wp-content/uploads/TV-Channel-Network.webp" group-title="Filmes",TV Channel Network
+https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-j-sid" tvg-name="TV J.SID" tvg-logo="https://glostv.com/wp-content/uploads/Tv-J.SID_.webp" group-title="Filmes",TV J.SID
+https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-nbt" tvg-name="TV NBT" tvg-logo="https://glostv.com/wp-content/uploads/NBT.webp" group-title="Filmes",TV NBT
+https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-one" tvg-name="TV One" tvg-logo="https://glostv.com/wp-content/uploads/TV-one-2.webp" group-title="Filmes",TV One
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-osorio-news" tvg-name="TV Osório News" tvg-logo="https://glostv.com/wp-content/uploads/TV-osorio.webp" group-title="Filmes",TV Osório News
+https://stmv2.srvsh.com.br/0003/0003/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-sonata" tvg-name="TV Sonata" tvg-logo="https://glostv.com/wp-content/uploads/sonata2.webp" group-title="Filmes",TV Sonata
+https://play.tvsonata.com.br/LiveApp/streams/tvsonata.m3u8
+#EXTINF:-1 tvg-id="tv3-curitiba" tvg-name="TV3 Curitiba" tvg-logo="https://glostv.com/wp-content/uploads/TV3canal-1-150x150.webp" group-title="Filmes",TV3 Curitiba
+https://cdn.mbcbrasil.tv.br/tv3_web/index.m3u8?cookieCheck=1
+#EXTINF:-1 tvg-id="tvc-para" tvg-name="TVC Pará" tvg-logo="https://glostv.com/wp-content/uploads/tvc-1-1.webp" group-title="Filmes",TVC Pará
+https://srt01.logicahost.com.br/tvcbelem/index.m3u8
+#EXTINF:-1 tvg-id="bs-tv" tvg-name="BS TV" tvg-logo="https://glostv.com/wp-content/uploads/bs-tv.webp" group-title="Seriados",BS TV
+https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
+#EXTINF:-1 tvg-id="reviva-tv" tvg-name="Reviva TV" tvg-logo="https://glostv.com/wp-content/uploads/Reviva.webp" group-title="Seriados",Reviva TV
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
+#EXTINF:-1 tvg-id="seven-tv" tvg-name="Seven TV" tvg-logo="https://glostv.com/wp-content/uploads/seven-TV-1.webp" group-title="Seriados",Seven TV
+https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-loading" tvg-name="TV Loading" tvg-logo="https://glostv.com/wp-content/uploads/loading-1.webp" group-title="Seriados",TV Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="anime-tv-channel" tvg-name="Anime TV Channel" tvg-logo="https://glostv.com/wp-content/uploads/Anime-TV-Channel-1.webp" group-title="Desenhos",Anime TV Channel
+https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-id="geekdot" tvg-name="Geekdot" tvg-logo="https://glostv.com/wp-content/uploads/Geekdot.webp" group-title="Desenhos",Geekdot
+https://stream.ichibansys.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="gospel-cartoon" tvg-name="Gospel Cartoon" tvg-logo="https://glostv.com/wp-content/uploads/carton.webp" group-title="Desenhos",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-id="lucas-tv" tvg-name="Lucas TV" tvg-logo="https://glostv.com/wp-content/uploads/lucas-TV-1-1.webp" group-title="Desenhos",Lucas TV
+https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
+#EXTINF:-1 tvg-id="otaku-sign-tv" tvg-name="Otaku Sign TV" tvg-logo="https://glostv.com/wp-content/uploads/otaku-1.webp" group-title="Desenhos",Otaku Sign TV
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
+#EXTINF:-1 tvg-id="retro-cartoon" tvg-name="Retrô Cartoon" tvg-logo="https://glostv.com/wp-content/uploads/retro.webp" group-title="Desenhos",Retrô Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="toon-goggles-em-portugues" tvg-name="Toon Goggles em português" tvg-logo="https://glostv.com/wp-content/uploads/tg-150x150.webp" group-title="Desenhos",Toon Goggles em português
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+#EXTINF:-1 tvg-id="web-tv-xtreme" tvg-name="Web TV Xtreme" tvg-logo="https://glostv.com/wp-content/uploads/xTREMETV-150x150.webp" group-title="Desenhos",Web TV Xtreme
+https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
+#EXTINF:-1 tvg-id="wording-tv" tvg-name="Wording TV" tvg-logo="https://glostv.com/wp-content/uploads/Wording-TV.webp" group-title="Desenhos",Wording TV
+https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="demais-tv" tvg-name="D + TV (Demais TV)" tvg-logo="https://glostv.com/wp-content/uploads/demaisTV-1.webp" group-title="Documentarios",D + TV (Demais TV)
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1 tvg-id="nature-time-brasil" tvg-name="Nature Time Brasil" tvg-logo="https://glostv.com/wp-content/uploads/Nature-Time-Brasil-1-150x150.webp" group-title="Documentarios",Nature Time Brasil
+https://amg01576-amg01576c12-plex-us-11251.playouts.now.amagi.tv/1080p-cc-por/index.m3u8
+#EXTINF:-1 tvg-id="sobrevivi" tvg-name="Sobrevivi" tvg-logo="https://glostv.com/wp-content/uploads/sobrevivi-1-1-150x150.webp" group-title="Documentarios",Sobrevivi
+https://amg00627-amg00627c75-amgplt0778.playout.now3.amagi.tv/1080p-por/index.m3u8
+#EXTINF:-1 tvg-id="tvideonews" tvg-name="TVídeoNews" tvg-logo="https://glostv.com/wp-content/uploads/unnamed-4-2.webp" group-title="Documentarios",TVídeoNews
+https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w1992804748.m3u8
+#EXTINF:-1 tvg-id="betelhost-sertanejo" tvg-name="Betelhost Sertanejo" tvg-logo="https://glostv.com/wp-content/uploads/Betelhost-Sertanejo.webp" group-title="Musica",Betelhost Sertanejo
+https://srv3.zcast.com.br/betelhostbr/betelhostbr/playlist.m3u8
+#EXTINF:-1 tvg-id="cariri-tv" tvg-name="Cariri TV" tvg-logo="https://glostv.com/wp-content/uploads/Cariri-TV.webp" group-title="Musica",Cariri TV
+https://video05.logicahost.com.br/cariritv/cariritv/playlist.m3u8
+#EXTINF:-1 tvg-id="kpop-tv-play-ao-vivo" tvg-name="Kpop TV Play" tvg-logo="https://glostv.com/wp-content/uploads/k-pop.webp" group-title="Musica",Kpop TV Play
+https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/playlist.m3u8
+#EXTINF:-1 tvg-id="radio-natureza-fm" tvg-name="Natureza FM" tvg-logo="https://glostv.com/wp-content/uploads/canal-natureza.webp" group-title="Musica",Natureza FM
+https://tv02.zas.media:1936/natureza/natureza/playlist.m3u8
+#EXTINF:-1 tvg-id="nova-era-webtv" tvg-name="Nova Era WEBTV" tvg-logo="https://glostv.com/wp-content/uploads/nova-era1-1.webp" group-title="Musica",Nova Era WEBTV
+https://stmv1.conectastreaming.com/novaera/novaera/playlist.m3u8
+#EXTINF:-1 tvg-id="q-fm" tvg-name="Q FM" tvg-logo="https://glostv.com/wp-content/uploads/Q-FM.webp" group-title="Musica",Q FM
+https://qfm.sistemasgerais.com.br//hlsq/index.m3u8
+#EXTINF:-1 tvg-id="radio-clube-1005-fm" tvg-name="Rádio Clube 100,5 FM" tvg-logo="https://glostv.com/wp-content/uploads/clube-FM-1005-1.webp" group-title="Musica",Rádio Clube 100,5 FM
+https://live.cdn.upx.com/5e5c_5/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="radio-clube-1055-fm" tvg-name="Rádio Clube 105,5 FM" tvg-logo="https://glostv.com/wp-content/uploads/radio-clube-100.webp" group-title="Musica",Rádio Clube 105,5 FM
+https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
+#EXTINF:-1 tvg-id="radio-redentor-df" tvg-name="Rádio Redentor DF" tvg-logo="https://glostv.com/wp-content/uploads/radio-redentor.webp" group-title="Musica",Rádio Redentor DF
+https://virtues.live:1936/redentor2/redentor2/playlist.m3u8
+#EXTINF:-1 tvg-id="top-tv" tvg-name="Top TV" tvg-logo="https://glostv.com/wp-content/uploads/topTV.webp" group-title="Musica",Top TV
+https://isaocorp.cloudecast.com/toptv/index.m3u8
+#EXTINF:-1 tvg-id="tv-cafe-viola" tvg-name="TV Café Viola" tvg-logo="https://glostv.com/wp-content/uploads/TV-Cafe-Copia.webp" group-title="Musica",TV Café Viola
+https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-diario-macapa-ao-vivo" tvg-name="TV Diário Macapá" tvg-logo="https://glostv.com/wp-content/uploads/diario-1.webp" group-title="Musica",TV Diário Macapá
+https://video02.logicahost.com.br/tvdiario/tvdiario/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-montanhesa" tvg-name="TV Montanhesa" tvg-logo="https://glostv.com/wp-content/uploads/montanhesa.webp" group-title="Musica",TV Montanhesa
+https://qfm.sistemasgerais.com.br/hlsm/index.m3u8
+#EXTINF:-1 tvg-id="tv-paradise" tvg-name="TV Paradise" tvg-logo="https://glostv.com/wp-content/uploads/tv-paradise-1.webp" group-title="Musica",TV Paradise
+https://stmv5.samcast.com.br/marcos3057/marcos3057/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-portal-hd" tvg-name="TV Portal HD" tvg-logo="https://glostv.com/wp-content/uploads/Tv-portal.webp" group-title="Musica",TV Portal HD
+https://flussonic-tv.jupiter.com.br/portalativo/index.m3u8
+#EXTINF:-1 tvg-id="tv-uniao-de-natal" tvg-name="TV União de Natal" tvg-logo="https://glostv.com/wp-content/uploads/TV-uniao-HD.webp" group-title="Musica",TV União de Natal
+https://pushapp.uniaoplay.com.br/hls/stream.m3u8
+#EXTINF:-1 tvg-id="yeeaah" tvg-name="Yeeaah!" tvg-logo="https://glostv.com/wp-content/uploads/yeeaah.webp" group-title="Musica",Yeeaah!
+https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1 tvg-id="amazon-sat" tvg-name="Amazon Sat" tvg-logo="https://glostv.com/wp-content/uploads/amazonsat.webp" group-title="Cultura",Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-id="canal-educacao" tvg-name="Canal Educação" tvg-logo="https://glostv.com/wp-content/uploads/tv-MEC-1.webp" group-title="Cultura",Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="canal-futura" tvg-name="Canal Futura" tvg-logo="https://glostv.com/wp-content/uploads/2025/06/furura.webp" group-title="Cultura",Canal Futura
+https://tv.unisc.br/hls/test.m3u8
+#EXTINF:-1 tvg-id="master-tv" tvg-name="Master TV" tvg-logo="https://glostv.com/wp-content/uploads/masterTV.webp" group-title="Cultura",Master TV
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-cidade-livre" tvg-name="Rede Cidade Livre" tvg-logo="https://glostv.com/wp-content/uploads/rede-cidade-livre.webp" group-title="Cultura",Rede Cidade Livre
+https://tvcidadelivre.com.br/aovivo/livestream.m3u8
+#EXTINF:-1 tvg-id="rede-minas" tvg-name="Rede Minas" tvg-logo="https://glostv.com/wp-content/uploads/rede-Minas.webp" group-title="Cultura",Rede Minas
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1 tvg-id="rfptv" tvg-name="RFPtv" tvg-logo="https://glostv.com/wp-content/uploads/rtv12.webp" group-title="Cultura",RFPtv
+https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-beltrao" tvg-name="TV Beltrão" tvg-logo="https://glostv.com/wp-content/uploads/TV-Beltrao-Copia.webp" group-title="Cultura",TV Beltrão
+https://video04.logicahost.com.br/tvbeltrao/tvbeltrao/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-brasil" tvg-name="TV Brasil" tvg-logo="https://glostv.com/wp-content/uploads/tv-brasil-22-1.webp" group-title="Cultura",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="tv-brasil-central" tvg-name="TV Brasil Central" tvg-logo="https://glostv.com/wp-content/uploads/tv-brasil-central.webp" group-title="Cultura",TV Brasil Central
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-brasil-internacional" tvg-name="TV Brasil Internacional" tvg-logo="https://glostv.com/wp-content/uploads/TV-brasil-1-1.webp" group-title="Cultura",TV Brasil Internacional
+https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="tv-brics" tvg-name="TV BRICS Português" tvg-logo="https://glostv.com/wp-content/uploads/BRICS-1-150x150.webp" group-title="Cultura",TV BRICS Português
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-cidade-10" tvg-name="TV Cidade 10" tvg-logo="https://glostv.com/wp-content/uploads/TV-Cidade-.webp" group-title="Cultura",TV Cidade 10
+https://video10.logicahost.com.br/tvcidade10/tvcidade10/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-cultura" tvg-name="TV Cultura" tvg-logo="https://glostv.com/wp-content/uploads/TV-Cultura.webp" group-title="Cultura",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-id="tv-do-povo-ao-vivo" tvg-name="TV do Povo" tvg-logo="https://glostv.com/wp-content/uploads/TV-do-povo123-1.webp" group-title="Cultura",TV do Povo
+https://video11.logicahost.com.br/tvdopovo/tvdopovo/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-gazeta-norte-de-minas" tvg-name="TV Gazeta Norte de Minas" tvg-logo="https://glostv.com/wp-content/uploads/TV-gazeta-norte-mineira-1.webp" group-title="Cultura",TV Gazeta Norte de Minas
+https://6836041ea1117.streamlock.net/tvgazeta/tvgazeta/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-nova-nordeste" tvg-name="TV Nova Nordeste" tvg-logo="https://glostv.com/wp-content/uploads/TV-nova.webp" group-title="Cultura",TV Nova Nordeste
+https://stream.ecast.com.br/nova-tv/index.m3u8
+#EXTINF:-1 tvg-id="tv-parana-turismo" tvg-name="TV Paraná Turismo" tvg-logo="https://glostv.com/wp-content/uploads/TV-parana-Turismo.webp" group-title="Cultura",TV Paraná Turismo
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+#EXTINF:-1 tvg-id="tvbe-tv-brasil" tvg-name="TVBE (TV Brasil)" tvg-logo="https://glostv.com/wp-content/uploads/TVBE-1.webp" group-title="Cultura",TVBE (TV Brasil)
+https://stmv1.samcast.com.br/junior5083/junior5083/playlist.m3u8
+#EXTINF:-1 tvg-id="tvcb-digital" tvg-name="TVCB Digital" tvg-logo="https://glostv.com/wp-content/uploads/TVCB.webp" group-title="Cultura",TVCB Digital
+https://stmv2.samcast.com.br/dermeval8653/dermeval8653/playlist.m3u8
+#EXTINF:-1 tvg-id="tve-espirito-santo" tvg-name="TVE Espiríto Santo" tvg-logo="https://glostv.com/wp-content/uploads/tve-espirito-santo-1-1.webp" group-title="Cultura",TVE Espiríto Santo
+https://video.fundacaocarmelia.com.br/live/215e24479d64_abr.m3u8
+#EXTINF:-1 tvg-id="tve-rs" tvg-name="TVE RS" tvg-logo="https://glostv.com/wp-content/uploads/tve.webp" group-title="Cultura",TVE RS
+https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-fdr" tvg-name="Canal FDR" tvg-logo="https://glostv.com/wp-content/uploads/canal-FDR.webp" group-title="Educativos",Canal FDR
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+#EXTINF:-1 tvg-id="canal-saude" tvg-name="Canal Saúde" tvg-logo="https://glostv.com/wp-content/uploads/canal-saude-1.webp" group-title="Educativos",Canal Saúde
+https://cdn.aws.eitvcloud.com/account351-i1495/event/canalsaude/format720p.m3u8
+#EXTINF:-1 tvg-id="guia-tv" tvg-name="Guia TV" tvg-logo="https://glostv.com/wp-content/uploads/guia-TV.webp" group-title="Educativos",Guia TV
+https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-mais-news" tvg-name="TV Mais News" tvg-logo="https://glostv.com/wp-content/uploads/TV-mais-news.webp" group-title="Educativos",TV Mais News
+https://video05.logicahost.com.br/tvmais01/tvmais01/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-o-povo" tvg-name="TV O Povo" tvg-logo="https://glostv.com/wp-content/uploads/TV-o-povo.webp" group-title="Educativos",TV O Povo
+https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
+#EXTINF:-1 tvg-id="tv-preve" tvg-name="TV Preve" tvg-logo="https://glostv.com/wp-content/uploads/TV-preve.webp" group-title="Educativos",TV Preve
+https://video01.brascast.com/paulispar7372/paulispar7372/playlist.m3u8
+#EXTINF:-1 tvg-id="tvc-panorama" tvg-name="TVC Panorama" tvg-logo="https://glostv.com/wp-content/uploads/tvc-panorama.webp" group-title="Educativos",TVC Panorama
+https://tv02.zas.media:1936/panorama/panorama/playlist.m3u8
+#EXTINF:-1 tvg-id="tvitape" tvg-name="TVitapê" tvg-logo="https://glostv.com/wp-content/uploads/TVitape-.webp" group-title="Educativos",TVitapê
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF:-1 tvg-id="unisc-tv-canal-futura" tvg-name="UNISC TV (Canal Futura)" tvg-logo="https://glostv.com/wp-content/uploads/unisctv.webp" group-title="Educativos",UNISC TV (Canal Futura)
+https://tv.unisc.br/hls/test.m3u8
+#EXTINF:-1 tvg-id="unisul-tv-ao-vivo" tvg-name="Unisul TV" tvg-logo="https://glostv.com/wp-content/uploads/UNITV-SC.webp" group-title="Educativos",Unisul TV
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8
+#EXTINF:-1 tvg-id="adbtv" tvg-name="ADBTV" tvg-logo="https://glostv.com/wp-content/uploads/10014.webp" group-title="Evangelica",ADBTV
+https://live.wayone.cloud/waytv/waytv1/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-promessas" tvg-name="Canal Promessas" tvg-logo="https://glostv.com/wp-content/uploads/TV-promessas-1.webp" group-title="Evangelica",Canal Promessas
+https://video01.brascast.com/gente8322/gente8322/playlist.m3u8
+#EXTINF:-1 tvg-id="despertar-tv" tvg-name="Despertar TV" tvg-logo="https://glostv.com/wp-content/uploads/d2.webp" group-title="Evangelica",Despertar TV
+https://br.conectmy.com.br/DespertarTV/video.m3u8
+#EXTINF:-1 tvg-id="fonte-tv" tvg-name="Fonte TV" tvg-logo="https://glostv.com/wp-content/uploads/fonte-TV.webp" group-title="Evangelica",Fonte TV
+https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/playlist.m3u8
+#EXTINF:-1 tvg-id="ibmc-tv-ao-vivo" tvg-name="IBMC TV" tvg-logo="https://glostv.com/wp-content/uploads/IBMC-TV-.webp" group-title="Evangelica",IBMC TV
+https://stmv1.srvstm.com/igreja9480/igreja9480/playlist.m3u8
+#EXTINF:-1 tvg-id="iurdtv-europa" tvg-name="IURDTV Europa" tvg-logo="https://glostv.com/wp-content/uploads/iurd-tv-eu.webp" group-title="Evangelica",IURDTV Europa
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/fdc85437d7631afb59fe3767dcc464dd/source/index.m3u8
+#EXTINF:-1 tvg-id="kuriakos-cine" tvg-name="Kuriakos Cine" tvg-logo="https://glostv.com/wp-content/uploads/k-cine.webp" group-title="Evangelica",Kuriakos Cine
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-advir" tvg-name="Rede Advir" tvg-logo="https://glostv.com/wp-content/uploads/rede-advir-1-150x150.webp" group-title="Evangelica",Rede Advir
+https://video11.logicahost.com.br/redeadvir01/redeadvir01/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-boas-novas" tvg-name="Rede Boas Novas" tvg-logo="https://glostv.com/wp-content/uploads/boa-nova-TV.webp" group-title="Evangelica",Rede Boas Novas
+https://cdn.live.br1.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-de-radio-e-tv-web-jesus-cristo-para-as-nacoes" tvg-name="Rede de Rádio e TV Web Jesus Cristo" tvg-logo="https://glostv.com/wp-content/uploads/web-e-radio-TV-1.webp" group-title="Evangelica",Rede de Rádio e TV Web Jesus Cristo
+https://stmv4.liveplushd.com.br/robertomaciel/robertomaciel/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-gospel" tvg-name="Rede Gospel" tvg-logo="https://glostv.com/wp-content/uploads/REDE-GOSPEL-1-1.webp" group-title="Evangelica",Rede Gospel
+https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-mais-familia" tvg-name="Rede Mais Família" tvg-logo="https://glostv.com/wp-content/uploads/rede-mais.webp" group-title="Evangelica",Rede Mais Família
+https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-mundial" tvg-name="Rede Mundial" tvg-logo="https://glostv.com/wp-content/uploads/rede-mundial-1.webp" group-title="Evangelica",Rede Mundial
+https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-mundial-interteve" tvg-name="Rede Mundial Interteve" tvg-logo="https://glostv.com/wp-content/uploads/rede-mundial-poder-de-Deus.webp" group-title="Evangelica",Rede Mundial Interteve
+https://68882bdaf156a.streamlock.net/interteve/ngrp:interteve_all/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-plenitude-tv" tvg-name="Rede Plenitude TV" tvg-logo="https://glostv.com/wp-content/uploads/Rede-Plenitude-.webp" group-title="Evangelica",Rede Plenitude TV
+https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-super" tvg-name="Rede Super" tvg-logo="https://glostv.com/wp-content/uploads/rede-super.webp" group-title="Evangelica",Rede Super
+https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-universo-tv" tvg-name="Rede Universo TV" tvg-logo="https://glostv.com/wp-content/uploads/universo-TV.webp" group-title="Evangelica",Rede Universo TV
+https://srv5.zcast.com.br/universotv/universotv/playlist.m3u8
+#EXTINF:-1 tvg-id="rit-tv" tvg-name="RIT TV" tvg-logo="https://glostv.com/wp-content/uploads/rit-rede-internacional.webp" group-title="Evangelica",RIT TV
+https://stream.ecast.com.br/rit-tv/index.m3u8
+#EXTINF:-1 tvg-id="tv-adorador-gospel" tvg-name="TV Adorador Gospel" tvg-logo="https://glostv.com/wp-content/uploads/Tv-adorador-Gospel-Copia.webp" group-title="Evangelica",TV Adorador Gospel
+https://stmv1.voxtvhd.com.br/tvadoradorgospel/tvadoradorgospel/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-avivando-nacoes" tvg-name="TV Avivando Nações" tvg-logo="https://glostv.com/wp-content/uploads/TV-avivando-nacoes-Copia.webp" group-title="Evangelica",TV Avivando Nações
+https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-cachoeira-ao-vivo" tvg-name="TV Cachoeira" tvg-logo="https://glostv.com/wp-content/uploads/TV-Cachoeira.webp" group-title="Evangelica",TV Cachoeira
+https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-cristo-vive" tvg-name="TV Cristo Vive" tvg-logo="https://glostv.com/wp-content/uploads/igreja-evangelica.webp" group-title="Evangelica",TV Cristo Vive
+https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w1826633450.m3u8
+#EXTINF:-1 tvg-id="tv-mana-brasil" tvg-name="TV Maná Brasil" tvg-logo="https://glostv.com/wp-content/uploads/TV-mana.webp" group-title="Evangelica",TV Maná Brasil
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-mao-amiga" tvg-name="TV Mão Amiga" tvg-logo="https://glostv.com/wp-content/uploads/tv-MAO-AMIGA-1-150x150.webp" group-title="Evangelica",TV Mão Amiga
+https://tv02.zas.media:1936/redemaoamiga/redemaoamiga/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-novo-tempo-ao-vivo" tvg-name="TV Novo Tempo" tvg-logo="https://glostv.com/wp-content/uploads/TV-novo-tempo.webp" group-title="Evangelica",TV Novo Tempo
+https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-templo" tvg-name="TV Templo" tvg-logo="https://glostv.com/wp-content/uploads/TV-templo.webp" group-title="Evangelica",TV Templo
+https://644398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-terceiro-anjo" tvg-name="TV Terceiro Anjo" tvg-logo="https://glostv.com/wp-content/uploads/TV-terceiro-anjo.webp" group-title="Evangelica",TV Terceiro Anjo
+https://streamer.terceiroanjo.com/salive/GMI3anjom/chunklist_w1654323045.m3u8
+#EXTINF:-1 tvg-id="tv-universal-ao-vivo" tvg-name="TV Universal" tvg-logo="https://glostv.com/wp-content/uploads/Tv-universal-1.webp" group-title="Evangelica",TV Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-web-maanaim" tvg-name="TV Web Maanaim" tvg-logo="https://glostv.com/wp-content/uploads/TV-Web-Maanaim.webp" group-title="Evangelica",TV Web Maanaim
+https://cpbr.appflux.com.br:2000/hls/maranatalive1/Source.m3u8
+#EXTINF:-1 tvg-id="way-tv" tvg-name="Way TV" tvg-logo="https://glostv.com/wp-content/uploads/waytv10.png" group-title="Evangelica",Way TV
+https://live.wayone.cloud/waytv/waytv1/playlist.m3u8
+#EXTINF:-1 tvg-id="paroquia-sao-joao-batista" tvg-name="Paróquia São João Batista" tvg-logo="https://glostv.com/wp-content/uploads/arquidiocese-de-campinas.webp" group-title="Catolica",Paróquia São João Batista
+https://5cf4a2c2512a2.streamlock.net/sjbcampinas/sjbcampinas/playlist.m3u8
+#EXTINF:-1 tvg-id="redevida" tvg-name="Rede Vida" tvg-logo="https://glostv.com/wp-content/uploads/redevida1-1.webp" group-title="Catolica",Rede Vida
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
+#EXTINF:-1 tvg-id="rede-vida-caxias" tvg-name="Rede Vida Caxias" tvg-logo="https://glostv.com/wp-content/uploads/rede-vida-caxias-1-1.webp" group-title="Catolica",Rede Vida Caxias
+https://srv3.zcast.com.br/vidacaxias/vidacaxias/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-aparecida" tvg-name="TV Aparecida" tvg-logo="https://glostv.com/wp-content/uploads/TV-Aparecida.webp" group-title="Catolica",TV Aparecida
+https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-cancao-nova-portugal" tvg-name="TV Canção Nova Portugal" tvg-logo="https://glostv.com/wp-content/uploads/TV-cancao-nova-portugal.webp" group-title="Catolica",TV Canção Nova Portugal
+https://5c643ed5107b7.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-evangelizar" tvg-name="TV Evangelizar" tvg-logo="https://glostv.com/wp-content/uploads/evangelizar20-1.webp" group-title="Catolica",TV Evangelizar
+https://df1.cdnsimba.com.br/bpk-tv/Df1_TVEVCTB2_HLS/hls/master.m3u8
+#EXTINF:-1 tvg-id="tv-evangelizar-maringa" tvg-name="TV Evangelizar Maringá" tvg-logo="https://glostv.com/wp-content/uploads/tv-evangelizar-maringa-1-1.webp" group-title="Catolica",TV Evangelizar Maringá
+https://df1.cdnsimba.com.br/bpk-tv/Df1_TVEVCTB2_HLS/hls/master.m3u8
+#EXTINF:-1 tvg-id="tv-horizonte" tvg-name="TV Horizonte" tvg-logo="https://glostv.com/wp-content/uploads/TV-HORIZONTE-1.webp" group-title="Catolica",TV Horizonte
+https://tvhorizonte.brasilstream.com.br/hls/tvhorizonte/index.m3u8
+#EXTINF:-1 tvg-id="tv-imaculada" tvg-name="TV Imaculada" tvg-logo="https://glostv.com/wp-content/uploads/imaculada-1.webp" group-title="Catolica",TV Imaculada
+https://video08.logicahost.com.br/redeimaculada/redeimaculada/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-novo-milenio" tvg-name="TV Novo Milênio" tvg-logo="https://glostv.com/wp-content/uploads/TV-novo-milenio-1.webp" group-title="Catolica",TV Novo Milênio
+https://5a57bda70564a.streamlock.net/mileniotv/mileniotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-pai-eterno" tvg-name="TV Pai Eterno" tvg-logo="https://glostv.com/wp-content/uploads/Tv-pai-eterno-1.webp" group-title="Catolica",TV Pai Eterno
+https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-pentecostes" tvg-name="TV Pentecostes" tvg-logo="https://glostv.com/wp-content/uploads/TV-Pentecostes.webp" group-title="Catolica",TV Pentecostes
+https://stmv2.samcast.com.br/radiopentecostes/radiopentecostes/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-seculo-21" tvg-name="TV SÉCULO 21" tvg-logo="https://glostv.com/wp-content/uploads/seculo-21.webp" group-title="Catolica",TV SÉCULO 21
+https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-vianney-ao-vivo" tvg-name="TV Vianney" tvg-logo="https://glostv.com/wp-content/uploads/TV-vianney.webp" group-title="Catolica",TV Vianney
+https://58c8a6b3c74e2.streamlock.net:1936/paroquiavianney/smil:paroquiavianney.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="bem-mais-tv" tvg-name="Bem Mais TV" tvg-logo="https://glostv.com/wp-content/uploads/bem-mais-Tv-ao-vivo.webp" group-title="Publicos",Bem Mais TV
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-gov" tvg-name="Canal Gov" tvg-logo="https://glostv.com/wp-content/uploads/canal-gov.webp" group-title="Publicos",Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="com-brasil-tv" tvg-name="Com Brasil TV" tvg-logo="https://glostv.com/wp-content/uploads/tv-com-brasil.webp" group-title="Publicos",Com Brasil TV
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-assembleia-bahia" tvg-name="TV Assembléia Bahia" tvg-logo="https://glostv.com/wp-content/uploads/Alba.webp" group-title="Publicos",TV Assembléia Bahia
+https://live.mediastreaming.com.br/alba/cdn.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-assembleia-ms" tvg-name="TV Assembleia MS" tvg-logo="https://glostv.com/wp-content/uploads/TV-Assembleia-MS.webp" group-title="Publicos",TV Assembleia MS
+https://live.stream.al.ms.gov.br/memfs/936d09fa-2827-4002-a58f-085c1826aab9.m3u8
+#EXTINF:-1 tvg-id="tv-camara" tvg-name="TV Câmara" tvg-logo="https://glostv.com/wp-content/uploads/TV-Camera-1.webp" group-title="Publicos",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="tv-camara-de-joao-pessoa" tvg-name="TV Câmara de João Pessoa" tvg-logo="https://glostv.com/wp-content/uploads/Tv-camara-de-Joao-pessoa.webp" group-title="Publicos",TV Câmara de João Pessoa
+https://video05.logicahost.com.br/camarajp/camarajp/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-camara-sp" tvg-name="TV Câmara SP" tvg-logo="https://glostv.com/wp-content/uploads/camara-sp.webp" group-title="Publicos",TV Câmara SP
+https://fpa-gateway.tvcultura.com.br:8181/memfs/41f23ee3-7e3a-416d-a047-29e1ec0a75bf.m3u8
+#EXTINF:-1 tvg-id="tv-cidada-al" tvg-name="TV CIDADÃ AL" tvg-logo="https://glostv.com/wp-content/uploads/TCE-AL-Copia.webp" group-title="Publicos",TV CIDADÃ AL
+https://video04.logicahost.com.br/tvcidada/tvcidada/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-senado" tvg-name="TV Senado" tvg-logo="https://glostv.com/wp-content/uploads/TV-Senado.webp" group-title="Publicos",TV Senado
+https://garden-tv.mobi/proxy?stream=http%3A%2F%2F170.83.49.66%3A8083%2FTVSENADOHD%2Findex.m3u8
+#EXTINF:-1 tvg-id="agro-canal" tvg-name="Agro Canal" tvg-logo="https://glostv.com/wp-content/uploads/a2041b4a82f3e3e87c1c2675c5828803-1.webp" group-title="Agronegocio",Agro Canal
+https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
+#EXTINF:-1 tvg-id="brtvmax" tvg-name="BRTVMAX" tvg-logo="https://glostv.com/wp-content/uploads/Screenshot_465-1.webp" group-title="Agronegocio",BRTVMAX
+https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-do-criador" tvg-name="Canal do Criador" tvg-logo="https://glostv.com/wp-content/uploads/canal-do-Criador.webp" group-title="Agronegocio",Canal do Criador
+https://isaocorp.cloudecast.com/rural-canal-criador/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="canal-rural" tvg-name="Canal Rural" tvg-logo="https://glostv.com/wp-content/uploads/canal-Rural.webp" group-title="Agronegocio",Canal Rural
+https://isaocorp.cloudecast.com/canalrural/index.m3u8
+#EXTINF:-1 tvg-id="canal-solo-fertil" tvg-name="Canal Solo Fértil" tvg-logo="https://glostv.com/wp-content/uploads/solo-fertil.webp" group-title="Agronegocio",Canal Solo Fértil
+https://stream.canalsolofertil.com.br/live/canalsolofertil/index.m3u8
+#EXTINF:-1 tvg-id="nova-tv-agrotour" tvg-name="Nova TV Agrotour" tvg-logo="https://glostv.com/wp-content/uploads/nova-TV.webp" group-title="Agronegocio",Nova TV Agrotour
+https://stmv3.liveplushd.com.br/tvnovaagrotour/tvnovaagrotour/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-coop-sc" tvg-name="TV Coop SC" tvg-logo="https://glostv.com/wp-content/uploads/TV-coop-1.webp" group-title="Agronegocio",TV Coop SC
+https://stream01f.netpointcdn.com.br/tvcoopsc/aovivo/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-noticias-agricolas" tvg-name="TV Notícias Agrícolas" tvg-logo="https://glostv.com/wp-content/uploads/TV-Noticias-Agricolas-1-1.webp" group-title="Agronegocio",TV Notícias Agrícolas
+https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
+#EXTINF:-1 tvg-id="drive-channel-tv" tvg-name="Drive Channel TV" tvg-logo="https://glostv.com/wp-content/uploads/drive-channel.webp" group-title="Carros",Drive Channel TV
+https://stmv1.voxplayer.com.br/drivechannel/drivechannel/playlist.m3u8
+#EXTINF:-1 tvg-id="1001-noites" tvg-name="1001 Noites" tvg-logo="https://glostv.com/wp-content/uploads/1001-noites.webp" group-title="Televendas",1001 Noites
+https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8
+#EXTINF:-1 tvg-id="tv-gazin-ao-vivo" tvg-name="TV Gazin" tvg-logo="https://glostv.com/wp-content/uploads/Tv-Gazin.webp" group-title="Televendas",TV Gazin
+https://caikron.com.br:19360/floripa/canal2.m3u8
+#EXTINF:-1 tvg-id="tv-tudo-bh" tvg-name="TV Tudo BH" tvg-logo="https://glostv.com/wp-content/uploads/TV-Tudo.webp" group-title="Televendas",TV Tudo BH
+https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8
