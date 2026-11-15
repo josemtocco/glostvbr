@@ -1,1 +1,60 @@
+name: Atualizar lista GlosTV (M3U)
 
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-lista
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+
+      - name: Garantir arquivos de estado
+        if: always()
+        run: |
+          for f in estado_canais.json relatorio.json; do
+            [ -f "$f" ] || echo '{}' > "$f"
+          done
+          [ -f glostv_brasil.m3u ] || printf '#EXTM3U\n' > glostv_brasil.m3u
+
+      - name: Gerar lista
+        env:
+          URL_PUBLICA: https://raw.githubusercontent.com/${{ github.repository }}/main/glostv_brasil.m3u
+        run: python glostv_m3u.py
+
+      - name: Publicar
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          for i in 1 2 3 4 5; do
+            git add -A -- glostv_brasil.m3u estado_canais.json relatorio.json URL_LISTA.txt || true
+            git commit -m "Atualiza lista M3U ($(date -u '+%Y-%m-%d %H:%M UTC'))" || exit 0
+            if git push; then exit 0; fi
+            echo "push recusado, sincronizando e regenerando (tentativa $i)"
+            git rebase --abort 2>/dev/null || true
+            git merge --abort 2>/dev/null || true
+            git fetch origin main
+            git reset --hard origin/main
+            [ -f estado_canais.json ] || echo '{}' > estado_canais.json
+            python glostv_m3u.py
+          done
+          exit 1
