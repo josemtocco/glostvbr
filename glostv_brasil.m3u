@@ -69,8 +69,6 @@ https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1 tvg-id="rede-gazeta-brasil" tvg-name="Rede Gazeta Brasil" tvg-logo="https://glostv.com/wp-content/uploads/rede-gazeta-br-1.webp" group-title="Variedades",Rede Gazeta Brasil
 https://painel.redegazetabrasil.com.br/hls/canal1/index.m3u8
-#EXTINF:-1 tvg-id="rede-metropole" tvg-name="Rede Metrópole" tvg-logo="https://glostv.com/wp-content/uploads/rede-metropole-2.webp" group-title="Variedades",Rede Metrópole
-https://isaocorp.cloudecast.com/metropole/index.m3u8
 #EXTINF:-1 tvg-id="rede-mult-tv" tvg-name="Rede Mult TV" tvg-logo="https://glostv.com/wp-content/uploads/rede-multi-2.webp" group-title="Variedades",Rede Mult TV
 https://stmv7.samcast.com.br/redemulttv/redemulttv/playlist.m3u8
 #EXTINF:-1 tvg-id="rede-premium-tv" tvg-name="Rede Premium TV" tvg-logo="https://glostv.com/wp-content/uploads/rede-premium-150x150.webp" group-title="Variedades",Rede Premium TV
@@ -129,6 +127,8 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-amplitude-juina" tvg-name="TV Amplitude Juína" tvg-logo="https://glostv.com/wp-content/uploads/TV-amplitude-juina-1.webp" group-title="Variedades",TV Amplitude Juína
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-arapuan" tvg-name="TV Arapuan" tvg-logo="https://glostv.com/wp-content/uploads/TV-Arapuan-2.webp" group-title="Variedades",TV Arapuan
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-aratu" tvg-name="TV Aratu" tvg-logo="https://glostv.com/wp-content/uploads/TV-Aratu.webp" group-title="Variedades",TV Aratu
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-avant" tvg-name="TV Avant" tvg-logo="https://glostv.com/wp-content/uploads/Avant.webp" group-title="Variedades",TV Avant
@@ -155,6 +155,8 @@ https://video09.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-clube-rn" tvg-name="TV Clube RN" tvg-logo="https://glostv.com/wp-content/uploads/TV-Clube-1-150x150.webp" group-title="Variedades",TV Clube RN
 https://radios.braviahost.com.br:2020/hls/tvclubern/tvclubern.m3u8
+#EXTINF:-1 tvg-id="tv-comunitaria-de-brasilia" tvg-name="TV Comunitária de Brasília" tvg-logo="https://glostv.com/wp-content/uploads/TV-de-Brasilia-1.webp" group-title="Variedades",TV Comunitária de Brasília
+https://5b7f3c45ab7c2.streamlock.net/8008/ngrp:8008/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="tv-curuca" tvg-name="TV Curuça" tvg-logo="https://glostv.com/wp-content/uploads/TV-Curuca.webp" group-title="Variedades",TV Curuça
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-diversidade" tvg-name="TV Diversidade" tvg-logo="https://glostv.com/wp-content/uploads/tv-diversidade-1-1.webp" group-title="Variedades",TV Diversidade
@@ -183,8 +185,6 @@ https://s1.tvr.ovh/video83070/video83070/playlist.m3u8
 https://stmv4.voxtvhd.com.br/tvinforbahia/tvinforbahia/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-interior" tvg-name="TV Interior" tvg-logo="https://glostv.com/wp-content/uploads/TV-interior.webp" group-title="Variedades",TV Interior
 https://live.tvinterior.com.br/hls/stream.m3u8
-#EXTINF:-1 tvg-id="tv-jundiai-hoje" tvg-name="TV Jundiaí Hoje" tvg-logo="https://glostv.com/wp-content/uploads/jundiai-hoje-1-150x150.webp" group-title="Variedades",TV Jundiaí Hoje
-https://stmv2.samcast.com.br/rosanaa9913/rosanaa9913/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-liberdade-pacajus" tvg-name="TV Liberdade Pacajus" tvg-logo="https://glostv.com/wp-content/uploads/radio-e-TV-Liberdade.webp" group-title="Variedades",TV Liberdade Pacajus
 https://stmv1.paineldevideo.com.br/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-life-america" tvg-name="TV Life América" tvg-logo="https://glostv.com/wp-content/uploads/TV-Life-1-1-150x150.png" group-title="Variedades",TV Life América
@@ -229,8 +229,6 @@ https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/tvpantanalms/tvpantanalms/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-paraense" tvg-name="TV Paraense" tvg-logo="https://glostv.com/wp-content/uploads/TV-paraense-1-150x150.webp" group-title="Variedades",TV Paraense
 https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u8
-#EXTINF:-1 tvg-id="tv-planalto-norte" tvg-name="TV Planalto Norte" tvg-logo="https://glostv.com/wp-content/uploads/TV-planalto-1.webp" group-title="Variedades",TV Planalto Norte
-https://pop.uniquetv.com.br/tvplanaltonorte/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="tv-plug" tvg-name="TV Plug" tvg-logo="https://glostv.com/wp-content/uploads/TV-Plug.webp" group-title="Variedades",TV Plug
 https://stmv3.voxtvhd.com.br/tvplug/tvplug/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-ponta-verde" tvg-name="TV Ponta Verde" tvg-logo="https://glostv.com/wp-content/uploads/tv-ponta.webp" group-title="Variedades",TV Ponta Verde
@@ -241,8 +239,6 @@ https://stmv.webtvninjas.com.br/tvportalweb/tvportalweb/playlist.m3u8
 https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-rio-preto" tvg-name="TV Rio Preto" tvg-logo="https://glostv.com/wp-content/uploads/Tv-Rio-Preto-1.webp" group-title="Variedades",TV Rio Preto
 https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
-#EXTINF:-1 tvg-id="tv-santa-cecilia" tvg-name="TV Santa Cecilia" tvg-logo="https://glostv.com/wp-content/uploads/santya-cecilia.webp" group-title="Variedades",TV Santa Cecilia
-https://video11.logicahost.com.br/unisantaapp/unisantaapp/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-sao-luiz" tvg-name="TV São Luiz (RedeTV)" tvg-logo="https://glostv.com/wp-content/uploads/TV-sao-luiz-1.webp" group-title="Variedades",TV São Luiz (RedeTV)
 https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-serra-mar" tvg-name="TV Serra Mar" tvg-logo="https://glostv.com/wp-content/uploads/serra-mar1-1.webp" group-title="Variedades",TV Serra Mar
@@ -253,16 +249,8 @@ https://video04.logicahost.com.br/santiagoproducoes/santiagoproducoes/playlist.m
 https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-todo-dia" tvg-name="TV Todo Dia" tvg-logo="https://glostv.com/wp-content/uploads/tododia.webp" group-title="Variedades",TV Todo Dia
 https://br5093.streamingdevideo.com.br/tvtododia/tvtododia/playlist.m3u8
-#EXTINF:-1 tvg-id="tv-tropical" tvg-name="TV Tropical" tvg-logo="https://glostv.com/wp-content/uploads/Tv-tropical.webp" group-title="Variedades",TV Tropical
-https://video07.logicahost.com.br/portaltropicalrn/portaltropicalrn/playlist.m3u8
-#EXTINF:-1 tvg-id="tv-votorantim" tvg-name="TV Votorantim" tvg-logo="https://glostv.com/wp-content/uploads/TV-Votorantim.webp" group-title="Variedades",TV Votorantim
-https://br5093.streamingdevideo.com.br/tvv/tvv/playlist.m3u8
-#EXTINF:-1 tvg-id="tvc-bauru" tvg-name="TVC Bauru" tvg-logo="https://glostv.com/wp-content/uploads/TVC2.webp" group-title="Variedades",TVC Bauru
-https://video09.logicahost.com.br/tvbauru/tvbauru/playlist.m3u8
 #EXTINF:-1 tvg-id="tvc-jau" tvg-name="TVC Jaú" tvg-logo="https://glostv.com/wp-content/uploads/TVC-Jau.webp" group-title="Variedades",TVC Jaú
 https://cdn.live.br1.jmvstream.com/w/LVW-10889/LVW10889_2WEZNQGi20/playlist.m3u8
-#EXTINF:-1 tvg-id="tvc-rio" tvg-name="TVC Rio" tvg-logo="https://glostv.com/wp-content/uploads/tvc-rio-1-150x150.webp" group-title="Variedades",TVC Rio
-https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 #EXTINF:-1 tvg-id="tvci" tvg-name="TVCI" tvg-logo="https://glostv.com/wp-content/uploads/TVCI2.png" group-title="Variedades",TVCI
 https://cpbr.appflux.com.br:2000/hls/tvcilive/tvcilive.m3u8
 #EXTINF:-1 tvg-id="tvcom" tvg-name="TVCOM" tvg-logo="https://glostv.com/wp-content/uploads/tv-COM.webp" group-title="Variedades",TVCOM
@@ -273,8 +261,6 @@ https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
 https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="uma-tv" tvg-name="Uma TV" tvg-logo="https://glostv.com/wp-content/uploads/uma-TV-1.webp" group-title="Variedades",Uma TV
 https://umatv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="utv-londrina" tvg-name="UTV Londrina" tvg-logo="https://glostv.com/wp-content/uploads/UTV.webp" group-title="Variedades",UTV Londrina
-https://video05.logicahost.com.br/utvtv/utvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="via-morena" tvg-name="Via Morena" tvg-logo="https://glostv.com/wp-content/uploads/via-morena.webp" group-title="Variedades",Via Morena
 https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
 #EXTINF:-1 tvg-id="viva-web-tv" tvg-name="Viva Web TV" tvg-logo="https://glostv.com/wp-content/uploads/viva-web-TV.webp" group-title="Variedades",Viva Web TV
@@ -611,8 +597,6 @@ https://fpa-gateway.tvcultura.com.br:8181/memfs/41f23ee3-7e3a-416d-a047-29e1ec0a
 https://video04.logicahost.com.br/tvcidada/tvcidada/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-senado" tvg-name="TV Senado" tvg-logo="https://glostv.com/wp-content/uploads/TV-Senado.webp" group-title="Publicos",TV Senado
 https://garden-tv.mobi/proxy?stream=http%3A%2F%2F170.83.49.66%3A8083%2FTVSENADOHD%2Findex.m3u8
-#EXTINF:-1 tvg-id="agro-canal" tvg-name="Agro Canal" tvg-logo="https://glostv.com/wp-content/uploads/a2041b4a82f3e3e87c1c2675c5828803-1.webp" group-title="Agronegocio",Agro Canal
-https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
 #EXTINF:-1 tvg-id="brtvmax" tvg-name="BRTVMAX" tvg-logo="https://glostv.com/wp-content/uploads/Screenshot_465-1.webp" group-title="Agronegocio",BRTVMAX
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
 #EXTINF:-1 tvg-id="canal-do-criador" tvg-name="Canal do Criador" tvg-logo="https://glostv.com/wp-content/uploads/canal-do-Criador.webp" group-title="Agronegocio",Canal do Criador
@@ -633,5 +617,3 @@ https://stmv1.voxplayer.com.br/drivechannel/drivechannel/playlist.m3u8
 https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8
 #EXTINF:-1 tvg-id="tv-gazin-ao-vivo" tvg-name="TV Gazin" tvg-logo="https://glostv.com/wp-content/uploads/Tv-Gazin.webp" group-title="Televendas",TV Gazin
 https://caikron.com.br:19360/floripa/canal2.m3u8
-#EXTINF:-1 tvg-id="tv-tudo-bh" tvg-name="TV Tudo BH" tvg-logo="https://glostv.com/wp-content/uploads/TV-Tudo.webp" group-title="Televendas",TV Tudo BH
-https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8
