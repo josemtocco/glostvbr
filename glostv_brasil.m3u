@@ -249,6 +249,8 @@ https://video04.logicahost.com.br/santiagoproducoes/santiagoproducoes/playlist.m
 https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-todo-dia" tvg-name="TV Todo Dia" tvg-logo="https://glostv.com/wp-content/uploads/tododia.webp" group-title="Variedades",TV Todo Dia
 https://br5093.streamingdevideo.com.br/tvtododia/tvtododia/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-votorantim" tvg-name="TV Votorantim" tvg-logo="https://glostv.com/wp-content/uploads/TV-Votorantim.webp" group-title="Variedades",TV Votorantim
+https://br5093.streamingdevideo.com.br/tvv/tvv/playlist.m3u8
 #EXTINF:-1 tvg-id="tvc-jau" tvg-name="TVC Jaú" tvg-logo="https://glostv.com/wp-content/uploads/TVC-Jau.webp" group-title="Variedades",TVC Jaú
 https://cdn.live.br1.jmvstream.com/w/LVW-10889/LVW10889_2WEZNQGi20/playlist.m3u8
 #EXTINF:-1 tvg-id="tvci" tvg-name="TVCI" tvg-logo="https://glostv.com/wp-content/uploads/TVCI2.png" group-title="Variedades",TVCI
@@ -599,6 +601,8 @@ https://video04.logicahost.com.br/tvcidada/tvcidada/playlist.m3u8
 https://garden-tv.mobi/proxy?stream=http%3A%2F%2F170.83.49.66%3A8083%2FTVSENADOHD%2Findex.m3u8
 #EXTINF:-1 tvg-id="brtvmax" tvg-name="BRTVMAX" tvg-logo="https://glostv.com/wp-content/uploads/Screenshot_465-1.webp" group-title="Agronegocio",BRTVMAX
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-do-boi" tvg-name="Canal do Boi" tvg-logo="https://glostv.com/wp-content/uploads/canal-do-boi1-1.webp" group-title="Agronegocio",Canal do Boi
+https://cdn-tiva-aovivo3-equipea-com-br.soultv.com.br/aovivort/streams/FGPjVZA1EidEnBCn5502382962900440.m3u8
 #EXTINF:-1 tvg-id="canal-do-criador" tvg-name="Canal do Criador" tvg-logo="https://glostv.com/wp-content/uploads/canal-do-Criador.webp" group-title="Agronegocio",Canal do Criador
 https://isaocorp.cloudecast.com/rural-canal-criador/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="canal-rural" tvg-name="Canal Rural" tvg-logo="https://glostv.com/wp-content/uploads/canal-Rural.webp" group-title="Agronegocio",Canal Rural
