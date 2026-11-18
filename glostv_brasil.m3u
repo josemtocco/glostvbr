@@ -127,6 +127,8 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-amplitude-juina" tvg-name="TV Amplitude Juína" tvg-logo="https://glostv.com/wp-content/uploads/TV-amplitude-juina-1.webp" group-title="Variedades",TV Amplitude Juína
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-antena-10" tvg-name="TV Antena 10" tvg-logo="https://glostv.com/wp-content/uploads/antena10.webp" group-title="Variedades",TV Antena 10
+https://srt01.logicahost.com.br/a10mais/index.m3u8
 #EXTINF:-1 tvg-id="tv-arapuan" tvg-name="TV Arapuan" tvg-logo="https://glostv.com/wp-content/uploads/TV-Arapuan-2.webp" group-title="Variedades",TV Arapuan
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-aratu" tvg-name="TV Aratu" tvg-logo="https://glostv.com/wp-content/uploads/TV-Aratu.webp" group-title="Variedades",TV Aratu
