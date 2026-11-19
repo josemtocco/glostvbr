@@ -287,8 +287,6 @@ https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.
 https://amg29547-amg29547c2-amgplt0728.playout.now3.amagi.tv/bndnws-std-cc/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="record-news" tvg-name="Record News" tvg-logo="https://glostv.com/wp-content/uploads/2025/06/record-news.webp" group-title="Noticias",Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
-#EXTINF:-1 tvg-id="record-news-es" tvg-name="Record News ES" tvg-logo="https://glostv.com/wp-content/uploads/record-news-espirito-santo-1-150x150.webp" group-title="Noticias",Record News ES
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-id="sbt-news" tvg-name="SBT News" tvg-logo="https://glostv.com/wp-content/uploads/sbt-news-2.webp" group-title="Noticias",SBT News
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-id="tv-cidade-verde" tvg-name="TV Cidade Verde" tvg-logo="https://glostv.com/wp-content/uploads/TV-cidade-verde-1.webp" group-title="Noticias",TV Cidade Verde
