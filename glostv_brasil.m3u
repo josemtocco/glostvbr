@@ -247,8 +247,6 @@ https://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
 https://video04.logicahost.com.br/santiagoproducoes/santiagoproducoes/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-sul" tvg-name="TV Sul" tvg-logo="https://glostv.com/wp-content/uploads/TV-Sul.webp" group-title="Variedades",TV Sul
 https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="tv-todo-dia" tvg-name="TV Todo Dia" tvg-logo="https://glostv.com/wp-content/uploads/tododia.webp" group-title="Variedades",TV Todo Dia
-https://br5093.streamingdevideo.com.br/tvtododia/tvtododia/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-votorantim" tvg-name="TV Votorantim" tvg-logo="https://glostv.com/wp-content/uploads/TV-Votorantim.webp" group-title="Variedades",TV Votorantim
 https://br5093.streamingdevideo.com.br/tvv/tvv/playlist.m3u8
 #EXTINF:-1 tvg-id="tvc-jau" tvg-name="TVC Jaú" tvg-logo="https://glostv.com/wp-content/uploads/TVC-Jau.webp" group-title="Variedades",TVC Jaú
@@ -291,6 +289,8 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-id="tv-cidade-verde" tvg-name="TV Cidade Verde" tvg-logo="https://glostv.com/wp-content/uploads/TV-cidade-verde-1.webp" group-title="Noticias",TV Cidade Verde
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
+#EXTINF:-1 tvg-id="tv-diario-de-santa-maria" tvg-name="TV Diário" tvg-logo="https://glostv.com/wp-content/uploads/TV-diario-de-santa-Maria.webp" group-title="Noticias",TV Diário
+https://cdn-diariosm.ciclano.io:1443/diariosm/diariosm/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-fronteira" tvg-name="TV Fronteira" tvg-logo="https://glostv.com/wp-content/uploads/tv-fronteira-1-150x150.webp" group-title="Noticias",TV Fronteira
 https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
 #EXTINF:-1 tvg-id="tv-guara" tvg-name="TV Guará (Record News MA)" tvg-logo="https://glostv.com/wp-content/uploads/record-news-maranhao-1.webp" group-title="Noticias",TV Guará (Record News MA)
@@ -359,8 +359,6 @@ https://stmv2.srvsh.com.br/0003/0003/playlist.m3u8
 https://play.tvsonata.com.br/LiveApp/streams/tvsonata.m3u8
 #EXTINF:-1 tvg-id="tv3-curitiba" tvg-name="TV3 Curitiba" tvg-logo="https://glostv.com/wp-content/uploads/TV3canal-1-150x150.webp" group-title="Filmes",TV3 Curitiba
 https://cdn.mbcbrasil.tv.br/tv3_web/index.m3u8?cookieCheck=1
-#EXTINF:-1 tvg-id="tvc-para" tvg-name="TVC Pará" tvg-logo="https://glostv.com/wp-content/uploads/tvc-1-1.webp" group-title="Filmes",TVC Pará
-https://srt01.logicahost.com.br/tvcbelem/index.m3u8
 #EXTINF:-1 tvg-id="bs-tv" tvg-name="BS TV" tvg-logo="https://glostv.com/wp-content/uploads/bs-tv.webp" group-title="Seriados",BS TV
 https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
 #EXTINF:-1 tvg-id="reviva-tv" tvg-name="Reviva TV" tvg-logo="https://glostv.com/wp-content/uploads/Reviva.webp" group-title="Seriados",Reviva TV
