@@ -479,8 +479,6 @@ https://cdn.aws.eitvcloud.com/account351-i1495/event/canalsaude/format720p.m3u8
 https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-mais-news" tvg-name="TV Mais News" tvg-logo="https://glostv.com/wp-content/uploads/TV-mais-news.webp" group-title="Educativos",TV Mais News
 https://video05.logicahost.com.br/tvmais01/tvmais01/playlist.m3u8
-#EXTINF:-1 tvg-id="tv-o-povo" tvg-name="TV O Povo" tvg-logo="https://glostv.com/wp-content/uploads/TV-o-povo.webp" group-title="Educativos",TV O Povo
-https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
 #EXTINF:-1 tvg-id="tv-preve" tvg-name="TV Preve" tvg-logo="https://glostv.com/wp-content/uploads/TV-preve.webp" group-title="Educativos",TV Preve
 https://video01.brascast.com/paulispar7372/paulispar7372/playlist.m3u8
 #EXTINF:-1 tvg-id="tvc-panorama" tvg-name="TVC Panorama" tvg-logo="https://glostv.com/wp-content/uploads/tvc-panorama.webp" group-title="Educativos",TVC Panorama
