@@ -619,7 +619,5 @@ https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playli
 https://stmv1.voxplayer.com.br/drivechannel/drivechannel/playlist.m3u8
 #EXTINF:-1 tvg-id="1001-noites" tvg-name="1001 Noites" tvg-logo="https://glostv.com/wp-content/uploads/1001-noites.webp" group-title="Televendas",1001 Noites
 https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8
-#EXTINF:-1 tvg-id="tv-gazin-ao-vivo" tvg-name="TV Gazin" tvg-logo="https://glostv.com/wp-content/uploads/Tv-Gazin.webp" group-title="Televendas",TV Gazin
-https://caikron.com.br:19360/floripa/canal2.m3u8
 #EXTINF:-1 tvg-id="tv-tudo-bh" tvg-name="TV Tudo BH" tvg-logo="https://glostv.com/wp-content/uploads/TV-Tudo.webp" group-title="Televendas",TV Tudo BH
 https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8
