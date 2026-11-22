@@ -163,6 +163,8 @@ https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12928/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-ecovale" tvg-name="TV Ecovale" tvg-logo="https://glostv.com/wp-content/uploads/Eco-Vale.webp" group-title="Variedades",TV Ecovale
 https://5ad482a77183d.streamlock.net/portalecovalegmail.com/portalecovalegmail.com/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-foz" tvg-name="TV Foz" tvg-logo="https://glostv.com/wp-content/uploads/TV-Foz-1.webp" group-title="Variedades",TV Foz
+https://5cf4a2c2512a2.streamlock.net/8028/8028/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-foz-sao-mateus" tvg-name="TV FOZ São Mateus" tvg-logo="https://glostv.com/wp-content/uploads/TV-foz-ES.webp" group-title="Variedades",TV FOZ São Mateus
 https://5cf4a2c2512a2.streamlock.net/8028/8028/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-gallo" tvg-name="TV Gallo" tvg-logo="https://glostv.com/wp-content/uploads/TV-Gallo-.webp" group-title="Variedades",TV Gallo
@@ -243,8 +245,6 @@ https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
 https://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-sete-lagoas" tvg-name="TV sete Lagoas" tvg-logo="https://glostv.com/wp-content/uploads/TV-sete-Lagoas-.webp" group-title="Variedades",TV sete Lagoas
 https://video04.logicahost.com.br/santiagoproducoes/santiagoproducoes/playlist.m3u8
-#EXTINF:-1 tvg-id="tv-sul" tvg-name="TV Sul" tvg-logo="https://glostv.com/wp-content/uploads/TV-Sul.webp" group-title="Variedades",TV Sul
-https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-votorantim" tvg-name="TV Votorantim" tvg-logo="https://glostv.com/wp-content/uploads/TV-Votorantim.webp" group-title="Variedades",TV Votorantim
 https://br5093.streamingdevideo.com.br/tvv/tvv/playlist.m3u8
 #EXTINF:-1 tvg-id="tvc-jau" tvg-name="TVC Jaú" tvg-logo="https://glostv.com/wp-content/uploads/TVC-Jau.webp" group-title="Variedades",TVC Jaú
@@ -477,8 +477,6 @@ https://cdn.aws.eitvcloud.com/account351-i1495/event/canalsaude/format720p.m3u8
 https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-mais-news" tvg-name="TV Mais News" tvg-logo="https://glostv.com/wp-content/uploads/TV-mais-news.webp" group-title="Educativos",TV Mais News
 https://video05.logicahost.com.br/tvmais01/tvmais01/playlist.m3u8
-#EXTINF:-1 tvg-id="tv-preve" tvg-name="TV Preve" tvg-logo="https://glostv.com/wp-content/uploads/TV-preve.webp" group-title="Educativos",TV Preve
-https://video01.brascast.com/paulispar7372/paulispar7372/playlist.m3u8
 #EXTINF:-1 tvg-id="tvitape" tvg-name="TVitapê" tvg-logo="https://glostv.com/wp-content/uploads/TVitape-.webp" group-title="Educativos",TVitapê
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:-1 tvg-id="unisc-tv-canal-futura" tvg-name="UNISC TV (Canal Futura)" tvg-logo="https://glostv.com/wp-content/uploads/unisctv.webp" group-title="Educativos",UNISC TV (Canal Futura)
