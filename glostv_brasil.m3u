@@ -129,8 +129,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-antena-10" tvg-name="TV Antena 10" tvg-logo="https://glostv.com/wp-content/uploads/antena10.webp" group-title="Variedades",TV Antena 10
 https://srt01.logicahost.com.br/a10mais/index.m3u8
-#EXTINF:-1 tvg-id="tv-arapuan" tvg-name="TV Arapuan" tvg-logo="https://glostv.com/wp-content/uploads/TV-Arapuan-2.webp" group-title="Variedades",TV Arapuan
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-aratu" tvg-name="TV Aratu" tvg-logo="https://glostv.com/wp-content/uploads/TV-Aratu.webp" group-title="Variedades",TV Aratu
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-avant" tvg-name="TV Avant" tvg-logo="https://glostv.com/wp-content/uploads/Avant.webp" group-title="Variedades",TV Avant
@@ -481,8 +479,6 @@ https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
 https://video05.logicahost.com.br/tvmais01/tvmais01/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-preve" tvg-name="TV Preve" tvg-logo="https://glostv.com/wp-content/uploads/TV-preve.webp" group-title="Educativos",TV Preve
 https://video01.brascast.com/paulispar7372/paulispar7372/playlist.m3u8
-#EXTINF:-1 tvg-id="tvc-panorama" tvg-name="TVC Panorama" tvg-logo="https://glostv.com/wp-content/uploads/tvc-panorama.webp" group-title="Educativos",TVC Panorama
-https://tv02.zas.media:1936/panorama/panorama/playlist.m3u8
 #EXTINF:-1 tvg-id="tvitape" tvg-name="TVitapê" tvg-logo="https://glostv.com/wp-content/uploads/TVitape-.webp" group-title="Educativos",TVitapê
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:-1 tvg-id="unisc-tv-canal-futura" tvg-name="UNISC TV (Canal Futura)" tvg-logo="https://glostv.com/wp-content/uploads/unisctv.webp" group-title="Educativos",UNISC TV (Canal Futura)
