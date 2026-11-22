@@ -609,8 +609,6 @@ https://isaocorp.cloudecast.com/canalrural/index.m3u8
 https://stream.canalsolofertil.com.br/live/canalsolofertil/index.m3u8
 #EXTINF:-1 tvg-id="nova-tv-agrotour" tvg-name="Nova TV Agrotour" tvg-logo="https://glostv.com/wp-content/uploads/nova-TV.webp" group-title="Agronegocio",Nova TV Agrotour
 https://stmv3.liveplushd.com.br/tvnovaagrotour/tvnovaagrotour/playlist.m3u8
-#EXTINF:-1 tvg-id="tv-coop-sc" tvg-name="TV Coop SC" tvg-logo="https://glostv.com/wp-content/uploads/TV-coop-1.webp" group-title="Agronegocio",TV Coop SC
-https://stream01f.netpointcdn.com.br/tvcoopsc/aovivo/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-noticias-agricolas" tvg-name="TV Notícias Agrícolas" tvg-logo="https://glostv.com/wp-content/uploads/TV-Noticias-Agricolas-1-1.webp" group-title="Agronegocio",TV Notícias Agrícolas
 https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
 #EXTINF:-1 tvg-id="drive-channel-tv" tvg-name="Drive Channel TV" tvg-logo="https://glostv.com/wp-content/uploads/drive-channel.webp" group-title="Carros",Drive Channel TV
