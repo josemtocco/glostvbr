@@ -193,8 +193,6 @@ https://stmv1.paineldevideo.com.br/liberdaderadioetv/liberdaderadioetv/playlist.
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 #EXTINF:-1 tvg-id="tv-litoral" tvg-name="TV Litoral" tvg-logo="https://glostv.com/wp-content/uploads/TV-Litoral-1.webp" group-title="Variedades",TV Litoral
 https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
-#EXTINF:-1 tvg-id="tv-maceio" tvg-name="TV Maceió" tvg-logo="https://glostv.com/wp-content/uploads/TV-maceio.webp" group-title="Variedades",TV Maceió
-https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-mais-brasil" tvg-name="TV Mais Brasil" tvg-logo="https://glostv.com/wp-content/uploads/TV-Mais-Brasil.webp" group-title="Variedades",TV Mais Brasil
 https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-mais-marica" tvg-name="TV Mais Maricá" tvg-logo="https://glostv.com/wp-content/uploads/TV-mais-marica.webp" group-title="Variedades",TV Mais Maricá
@@ -265,8 +263,6 @@ https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
 https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="uma-tv" tvg-name="Uma TV" tvg-logo="https://glostv.com/wp-content/uploads/uma-TV-1.webp" group-title="Variedades",Uma TV
 https://umatv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="utv-londrina" tvg-name="UTV Londrina" tvg-logo="https://glostv.com/wp-content/uploads/UTV.webp" group-title="Variedades",UTV Londrina
-https://video05.logicahost.com.br/utvtv/utvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="via-morena" tvg-name="Via Morena" tvg-logo="https://glostv.com/wp-content/uploads/via-morena.webp" group-title="Variedades",Via Morena
 https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
 #EXTINF:-1 tvg-id="viva-web-tv" tvg-name="Viva Web TV" tvg-logo="https://glostv.com/wp-content/uploads/viva-web-TV.webp" group-title="Variedades",Viva Web TV
