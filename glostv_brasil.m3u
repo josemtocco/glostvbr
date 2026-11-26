@@ -193,6 +193,8 @@ https://stmv1.paineldevideo.com.br/liberdaderadioetv/liberdaderadioetv/playlist.
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 #EXTINF:-1 tvg-id="tv-litoral" tvg-name="TV Litoral" tvg-logo="https://glostv.com/wp-content/uploads/TV-Litoral-1.webp" group-title="Variedades",TV Litoral
 https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-maceio" tvg-name="TV Maceió" tvg-logo="https://glostv.com/wp-content/uploads/TV-maceio.webp" group-title="Variedades",TV Maceió
+https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-mais-brasil" tvg-name="TV Mais Brasil" tvg-logo="https://glostv.com/wp-content/uploads/TV-Mais-Brasil.webp" group-title="Variedades",TV Mais Brasil
 https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-mais-marica" tvg-name="TV Mais Maricá" tvg-logo="https://glostv.com/wp-content/uploads/TV-mais-marica.webp" group-title="Variedades",TV Mais Maricá
@@ -353,6 +355,8 @@ https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
 https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-one" tvg-name="TV One" tvg-logo="https://glostv.com/wp-content/uploads/TV-one-2.webp" group-title="Filmes",TV One
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-osorio-news" tvg-name="TV Osório News" tvg-logo="https://glostv.com/wp-content/uploads/TV-osorio.webp" group-title="Filmes",TV Osório News
+https://stmv2.srvsh.com.br/0003/0003/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-sonata" tvg-name="TV Sonata" tvg-logo="https://glostv.com/wp-content/uploads/sonata2.webp" group-title="Filmes",TV Sonata
 https://play.tvsonata.com.br/LiveApp/streams/tvsonata.m3u8
 #EXTINF:-1 tvg-id="tv3-curitiba" tvg-name="TV3 Curitiba" tvg-logo="https://glostv.com/wp-content/uploads/TV3canal-1-150x150.webp" group-title="Filmes",TV3 Curitiba
