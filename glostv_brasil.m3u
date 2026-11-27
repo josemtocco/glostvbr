@@ -39,6 +39,8 @@ https://video05.logicahost.com.br/extremotv/extremotv/playlist.m3u8
 https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 #EXTINF:-1 tvg-id="giro-tv-news" tvg-name="Giro TV News" tvg-logo="https://glostv.com/wp-content/uploads/Giro-TV-News.webp" group-title="Variedades",Giro TV News
 https://video09.logicahost.com.br/giroserra/giroserra/playlist.m3u8
+#EXTINF:-1 tvg-id="imob-tv" tvg-name="Imob TV" tvg-logo="https://glostv.com/wp-content/uploads/Poa-News-1.webp" group-title="Variedades",Imob TV
+https://stmv2.srvif.com/mm03132026/mm03132026/playlist.m3u8
 #EXTINF:-1 tvg-id="latina-sat" tvg-name="Latina Sat" tvg-logo="https://glostv.com/wp-content/uploads/latina-sat.webp" group-title="Variedades",Latina Sat
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
 #EXTINF:-1 tvg-id="lider-tv" tvg-name="Líder TV" tvg-logo="https://glostv.com/wp-content/uploads/lider-TV.webp" group-title="Variedades",Líder TV
@@ -265,6 +267,8 @@ https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
 https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="uma-tv" tvg-name="Uma TV" tvg-logo="https://glostv.com/wp-content/uploads/uma-TV-1.webp" group-title="Variedades",Uma TV
 https://umatv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="utv-londrina" tvg-name="UTV Londrina" tvg-logo="https://glostv.com/wp-content/uploads/UTV.webp" group-title="Variedades",UTV Londrina
+https://video05.logicahost.com.br/utvtv/utvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="via-morena" tvg-name="Via Morena" tvg-logo="https://glostv.com/wp-content/uploads/via-morena.webp" group-title="Variedades",Via Morena
 https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
 #EXTINF:-1 tvg-id="viva-web-tv" tvg-name="Viva Web TV" tvg-logo="https://glostv.com/wp-content/uploads/viva-web-TV.webp" group-title="Variedades",Viva Web TV
@@ -303,8 +307,6 @@ https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
 https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
 #EXTINF:-1 tvg-id="bs-tv-online" tvg-name="BS-TV Online" tvg-logo="https://glostv.com/wp-content/uploads/bs-TV-online.webp" group-title="Filmes",BS-TV Online
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
-#EXTINF:-1 tvg-id="canal-29" tvg-name="Canal 29" tvg-logo="https://glostv.com/wp-content/uploads/canal-29-1.webp" group-title="Filmes",Canal 29
-https://cdn.live.br1.jmvstream.com/webtv/trespassostv/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="classique-tv" tvg-name="Classique TV" tvg-logo="https://glostv.com/wp-content/uploads/classique-1-1.webp" group-title="Filmes",Classique TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="clouding-tv" tvg-name="Clouding TV" tvg-logo="https://glostv.com/wp-content/uploads/rede-clouding-TV.webp" group-title="Filmes",Clouding TV
@@ -341,8 +343,6 @@ https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8
 https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="sony-one-cinema" tvg-name="Sony One Cinema" tvg-logo="https://glostv.com/wp-content/uploads/sony-one-Cinema-1-150x150.webp" group-title="Filmes",Sony One Cinema
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="tres-passos-tv" tvg-name="Três Passos TV" tvg-logo="https://glostv.com/wp-content/uploads/tres-passos-TV-Copia.webp" group-title="Filmes",Três Passos TV
-https://cdn.live.br1.jmvstream.com/webtv/trespassostv/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-aracati" tvg-name="TV Aracati" tvg-logo="https://glostv.com/wp-content/uploads/TV-Aracati.webp" group-title="Filmes",TV Aracati
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-carioca-internacional" tvg-name="TV Carioca Internacional" tvg-logo="https://glostv.com/wp-content/uploads/Tv-Carioca.webp" group-title="Filmes",TV Carioca Internacional
